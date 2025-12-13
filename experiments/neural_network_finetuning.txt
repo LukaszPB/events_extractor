@@ -1,0 +1,29 @@
+MODEL                     | ACCURACY   | PRECISION   | RECALL F1   | MACRO F1
+--------------------------------------------------
+DistilBERT_FineTuned      | 0.7504     | 0.8289      | 0.5750      | 0.5973
+
+============================================================
+SZCZEGÓŁOWE RAPORTY KLASYFIKACJI
+============================================================
+
+Model: DistilBERT_FineTuned ---
+              precision    recall  f1-score   support
+
+    BUSINESS       1.00      0.08      0.15        12
+    DISASTER       0.83      0.82      0.82        65
+    NO_EVENT       0.74      0.90      0.81       408
+    POLITICS       0.75      0.50      0.60       228
+
+    accuracy                           0.75       713
+   macro avg       0.83      0.58      0.60       713
+weighted avg       0.76      0.75      0.73       713
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS         1         0         8         3
+DISASTER         0        53        12         0
+NO_EVENT         0         6       366        36
+POLITICS         0         5       108       115
+
+------------------------------------------------------------

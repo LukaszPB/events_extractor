@@ -1,0 +1,52 @@
+MODEL                     | ACCURACY   | PRECISION   | RECALL F1   | MACRO F1
+--------------------------------------------------
+Standard_No_Weights       | 0.7795     | 0.7512      | 0.7024      | 0.7238
+With_Class_Weights        | 0.7068     | 0.6511      | 0.7777      | 0.6917
+
+============================================================
+SZCZEGÓŁOWE RAPORTY KLASYFIKACJI
+============================================================
+
+Model: Standard_No_Weights ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.74      0.64      0.69      2528
+    DISASTER       0.79      0.76      0.77      2784
+    NO_EVENT       0.80      0.87      0.84     14005
+    POLITICS       0.67      0.54      0.60      3570
+
+    accuracy                           0.78     22887
+   macro avg       0.75      0.70      0.72     22887
+weighted avg       0.77      0.78      0.77     22887
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1616        10       855        47
+DISASTER        21      2112       589        62
+NO_EVENT       485       494     12176       850
+POLITICS        53        61      1520      1936
+
+------------------------------------------------------------
+
+Model: With_Class_Weights ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.55      0.83      0.66      2528
+    DISASTER       0.65      0.88      0.75      2784
+    NO_EVENT       0.89      0.64      0.74     14005
+    POLITICS       0.52      0.77      0.62      3570
+
+    accuracy                           0.71     22887
+   macro avg       0.65      0.78      0.69     22887
+weighted avg       0.76      0.71      0.71     22887
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      2106        24       295       103
+DISASTER        31      2441       222        90
+NO_EVENT      1596      1181      8895      2333
+POLITICS       108       113       615      2734
+
+------------------------------------------------------------

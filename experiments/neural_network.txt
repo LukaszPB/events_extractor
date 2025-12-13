@@ -1,0 +1,1662 @@
+MODEL                     | ACCURACY   | PRECISION   | RECALL F1   | MACRO F1
+--------------------------------------------------
+relu_adam_0.4_256x128     | 0.7861     | 0.7580      | 0.6968      | 0.7226
+relu_adam_0.2_256x256x64  | 0.7854     | 0.7574      | 0.6956      | 0.7226
+relu_adam_0.2_256x128     | 0.7839     | 0.7463      | 0.7123      | 0.7277
+relu_adam_0.2_128x64      | 0.7830     | 0.7492      | 0.7016      | 0.7229
+relu_adam_0.4_128x64      | 0.7830     | 0.7514      | 0.6973      | 0.7206
+relu_rmsprop_0.2_128x64   | 0.7829     | 0.7491      | 0.7051      | 0.7251
+relu_rmsprop_0.4_256x128  | 0.7829     | 0.7488      | 0.7033      | 0.7233
+relu_rmsprop_0.0_128x64   | 0.7823     | 0.7413      | 0.7127      | 0.7253
+relu_adam_0.0_128x64      | 0.7822     | 0.7546      | 0.6885      | 0.7155
+relu_adam_0.2_512x256x128 | 0.7817     | 0.7539      | 0.6868      | 0.7136
+relu_rmsprop_0.4_128x64   | 0.7817     | 0.7554      | 0.6889      | 0.7166
+gelu_adam_0.4_256x128     | 0.7814     | 0.7485      | 0.6923      | 0.7162
+relu_adam_0.4_256x256x64  | 0.7810     | 0.7491      | 0.6948      | 0.7179
+gelu_rmsprop_0.0_128x64   | 0.7807     | 0.7450      | 0.6979      | 0.7183
+relu_rmsprop_0.0_256x128  | 0.7802     | 0.7437      | 0.7011      | 0.7201
+relu_rmsprop_0.4_512x256x128 | 0.7801     | 0.7525      | 0.6875      | 0.7152
+relu_adam_0.0_256x128     | 0.7800     | 0.7452      | 0.6984      | 0.7192
+relu_adam_0.0_256x256x64  | 0.7800     | 0.7468      | 0.6956      | 0.7182
+gelu_rmsprop_0.0_256x128  | 0.7799     | 0.7483      | 0.6912      | 0.7162
+relu_adam_0.0_512x256x128 | 0.7799     | 0.7433      | 0.6952      | 0.7159
+relu_rmsprop_0.2_256x128  | 0.7799     | 0.7429      | 0.7018      | 0.7193
+gelu_rmsprop_0.4_256x128  | 0.7797     | 0.7480      | 0.6918      | 0.7162
+tanh_adam_0.2_128x64      | 0.7795     | 0.7480      | 0.6889      | 0.7134
+gelu_rmsprop_0.2_256x128  | 0.7794     | 0.7454      | 0.6932      | 0.7160
+tanh_adam_0.0_128x64      | 0.7793     | 0.7469      | 0.6901      | 0.7147
+relu_rmsprop_0.2_256x256x64 | 0.7792     | 0.7522      | 0.6807      | 0.7104
+gelu_adam_0.4_128x64      | 0.7791     | 0.7490      | 0.6854      | 0.7119
+gelu_rmsprop_0.4_128x64   | 0.7789     | 0.7491      | 0.6852      | 0.7119
+relu_adam_0.4_512x256x128 | 0.7788     | 0.7534      | 0.6784      | 0.7065
+gelu_adam_0.0_128x64      | 0.7786     | 0.7483      | 0.6858      | 0.7126
+tanh_rmsprop_0.0_256x128  | 0.7783     | 0.7474      | 0.6849      | 0.7116
+gelu_adam_0.0_256x128     | 0.7783     | 0.7470      | 0.6851      | 0.7114
+tanh_rmsprop_0.0_128x64   | 0.7782     | 0.7387      | 0.7033      | 0.7190
+relu_rmsprop_0.2_512x256x128 | 0.7782     | 0.7418      | 0.6947      | 0.7142
+tanh_rmsprop_0.0_256x256x64 | 0.7782     | 0.7522      | 0.6772      | 0.7069
+tanh_rmsprop_0.2_256x128  | 0.7781     | 0.7430      | 0.6951      | 0.7165
+gelu_adam_0.4_256x256x64  | 0.7780     | 0.7464      | 0.6842      | 0.7094
+tanh_rmsprop_0.4_128x64   | 0.7778     | 0.7485      | 0.6821      | 0.7094
+tanh_adam_0.0_256x128     | 0.7778     | 0.7466      | 0.6846      | 0.7112
+relu_rmsprop_0.0_256x256x64 | 0.7776     | 0.7429      | 0.6942      | 0.7151
+gelu_rmsprop_0.2_128x64   | 0.7774     | 0.7404      | 0.6937      | 0.7138
+relu_rmsprop_0.4_256x256x64 | 0.7771     | 0.7429      | 0.6932      | 0.7148
+gelu_adam_0.2_128x64      | 0.7771     | 0.7428      | 0.6881      | 0.7109
+tanh_adam_0.4_128x64      | 0.7769     | 0.7400      | 0.6938      | 0.7140
+gelu_adam_0.0_256x256x64  | 0.7766     | 0.7522      | 0.6708      | 0.7032
+gelu_rmsprop_0.4_256x256x64 | 0.7766     | 0.7504      | 0.6773      | 0.7075
+tanh_rmsprop_0.4_256x256x64 | 0.7765     | 0.7360      | 0.7012      | 0.7165
+tanh_adam_0.2_256x256x64  | 0.7765     | 0.7515      | 0.6731      | 0.7044
+tanh_adam_0.2_256x128     | 0.7763     | 0.7435      | 0.6857      | 0.7107
+relu_rmsprop_0.0_512x256x128 | 0.7762     | 0.7479      | 0.6844      | 0.7120
+gelu_adam_0.2_256x128     | 0.7761     | 0.7405      | 0.6895      | 0.7119
+tanh_rmsprop_0.4_256x128  | 0.7760     | 0.7398      | 0.6911      | 0.7124
+gelu_adam_0.4_512x256x128 | 0.7760     | 0.7449      | 0.6809      | 0.7071
+tanh_adam_0.4_256x128     | 0.7759     | 0.7411      | 0.6894      | 0.7117
+tanh_adam_0.2_512x256x128 | 0.7759     | 0.7414      | 0.6877      | 0.7109
+gelu_adam_0.2_256x256x64  | 0.7752     | 0.7417      | 0.6838      | 0.7072
+tanh_rmsprop_0.4_512x256x128 | 0.7752     | 0.7452      | 0.6796      | 0.7070
+tanh_adam_0.0_256x256x64  | 0.7751     | 0.7444      | 0.6787      | 0.7060
+gelu_rmsprop_0.2_256x256x64 | 0.7751     | 0.7479      | 0.6712      | 0.7020
+tanh_rmsprop_0.2_256x256x64 | 0.7749     | 0.7397      | 0.6838      | 0.7069
+tanh_rmsprop_0.2_128x64   | 0.7748     | 0.7359      | 0.6966      | 0.7145
+gelu_adam_0.2_512x256x128 | 0.7747     | 0.7494      | 0.6683      | 0.6985
+tanh_adam_0.4_512x256x128 | 0.7746     | 0.7337      | 0.6991      | 0.7147
+gelu_rmsprop_0.0_256x256x64 | 0.7742     | 0.7463      | 0.6730      | 0.7022
+tanh_adam_0.4_256x256x64  | 0.7742     | 0.7353      | 0.6916      | 0.7103
+tanh_rmsprop_0.0_512x256x128 | 0.7733     | 0.7413      | 0.6795      | 0.7059
+gelu_adam_0.0_512x256x128 | 0.7730     | 0.7449      | 0.6719      | 0.7026
+tanh_rmsprop_0.2_512x256x128 | 0.7730     | 0.7410      | 0.6756      | 0.7020
+gelu_rmsprop_0.0_512x256x128 | 0.7729     | 0.7371      | 0.6855      | 0.7080
+gelu_rmsprop_0.2_512x256x128 | 0.7728     | 0.7413      | 0.6749      | 0.7027
+gelu_rmsprop_0.4_512x256x128 | 0.7723     | 0.7415      | 0.6747      | 0.7022
+tanh_adam_0.0_512x256x128 | 0.7713     | 0.7311      | 0.6981      | 0.7133
+
+============================================================
+SZCZEGÓŁOWE RAPORTY KLASYFIKACJI
+============================================================
+
+Model: relu_adam_0.4_256x128 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.74      0.67      0.70      2480
+    DISASTER       0.81      0.74      0.77      2526
+    NO_EVENT       0.81      0.88      0.84     12371
+    POLITICS       0.68      0.50      0.58      2659
+
+    accuracy                           0.79     20036
+   macro avg       0.76      0.70      0.72     20036
+weighted avg       0.78      0.79      0.78     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1654        13       779        34
+DISASTER        23      1868       610        25
+NO_EVENT       510       397     10901       563
+POLITICS        62        29      1240      1328
+
+------------------------------------------------------------
+
+Model: relu_adam_0.2_256x256x64 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.77      0.62      0.69      2480
+    DISASTER       0.81      0.74      0.78      2526
+    NO_EVENT       0.81      0.88      0.84     12371
+    POLITICS       0.65      0.53      0.58      2659
+
+    accuracy                           0.79     20036
+   macro avg       0.76      0.70      0.72     20036
+weighted avg       0.78      0.79      0.78     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1549        11       877        43
+DISASTER        21      1881       586        38
+NO_EVENT       401       392     10890       688
+POLITICS        52        40      1150      1417
+
+------------------------------------------------------------
+
+Model: relu_adam_0.2_256x128 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.72      0.69      0.70      2480
+    DISASTER       0.80      0.76      0.78      2526
+    NO_EVENT       0.82      0.86      0.84     12371
+    POLITICS       0.65      0.55      0.60      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.75      0.71      0.73     20036
+weighted avg       0.78      0.78      0.78     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1699        13       722        46
+DISASTER        19      1912       570        25
+NO_EVENT       594       436     10641       700
+POLITICS        56        34      1114      1455
+
+------------------------------------------------------------
+
+Model: relu_adam_0.2_128x64 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.74      0.63      0.68      2480
+    DISASTER       0.80      0.76      0.78      2526
+    NO_EVENT       0.81      0.87      0.84     12371
+    POLITICS       0.64      0.55      0.59      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.75      0.70      0.72     20036
+weighted avg       0.78      0.78      0.78     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1566        12       853        49
+DISASTER        21      1918       549        38
+NO_EVENT       467       434     10752       718
+POLITICS        53        34      1119      1453
+
+------------------------------------------------------------
+
+Model: relu_adam_0.4_128x64 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.74      0.65      0.69      2480
+    DISASTER       0.80      0.76      0.78      2526
+    NO_EVENT       0.81      0.87      0.84     12371
+    POLITICS       0.66      0.51      0.57      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.75      0.70      0.72     20036
+weighted avg       0.78      0.78      0.78     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1615        13       815        37
+DISASTER        18      1909       576        23
+NO_EVENT       491       430     10813       637
+POLITICS        51        41      1216      1351
+
+------------------------------------------------------------
+
+Model: relu_rmsprop_0.2_128x64 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.73      0.66      0.69      2480
+    DISASTER       0.81      0.75      0.78      2526
+    NO_EVENT       0.81      0.87      0.84     12371
+    POLITICS       0.64      0.54      0.59      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.75      0.71      0.73     20036
+weighted avg       0.78      0.78      0.78     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1632        10       804        34
+DISASTER        19      1899       579        29
+NO_EVENT       523       398     10707       743
+POLITICS        60        30      1120      1449
+
+------------------------------------------------------------
+
+Model: relu_rmsprop_0.4_256x128 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.72      0.68      0.70      2480
+    DISASTER       0.80      0.75      0.78      2526
+    NO_EVENT       0.81      0.87      0.84     12371
+    POLITICS       0.66      0.52      0.58      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.75      0.70      0.72     20036
+weighted avg       0.78      0.78      0.78     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1682        10       752        36
+DISASTER        25      1889       592        20
+NO_EVENT       564       418     10733       656
+POLITICS        61        31      1185      1382
+
+------------------------------------------------------------
+
+Model: relu_rmsprop_0.0_128x64 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.71      0.68      0.70      2480
+    DISASTER       0.78      0.78      0.78      2526
+    NO_EVENT       0.82      0.86      0.84     12371
+    POLITICS       0.66      0.54      0.59      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.74      0.71      0.73     20036
+weighted avg       0.78      0.78      0.78     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1682         9       751        38
+DISASTER        23      1966       507        30
+NO_EVENT       583       517     10596       675
+POLITICS        66        41      1122      1430
+
+------------------------------------------------------------
+
+Model: relu_adam_0.0_128x64 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.75      0.63      0.69      2480
+    DISASTER       0.79      0.76      0.77      2526
+    NO_EVENT       0.80      0.88      0.84     12371
+    POLITICS       0.68      0.48      0.56      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.75      0.69      0.72     20036
+weighted avg       0.78      0.78      0.78     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1568        10       865        37
+DISASTER        21      1917       570        18
+NO_EVENT       456       458     10909       548
+POLITICS        51        40      1289      1279
+
+------------------------------------------------------------
+
+Model: relu_adam_0.2_512x256x128 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.75      0.63      0.69      2480
+    DISASTER       0.79      0.77      0.78      2526
+    NO_EVENT       0.80      0.88      0.84     12371
+    POLITICS       0.68      0.46      0.55      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.75      0.69      0.71     20036
+weighted avg       0.78      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1560         8       878        34
+DISASTER        20      1947       533        26
+NO_EVENT       438       480     10920       533
+POLITICS        53        38      1332      1236
+
+------------------------------------------------------------
+
+Model: relu_rmsprop_0.4_128x64 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.75      0.64      0.69      2480
+    DISASTER       0.80      0.75      0.77      2526
+    NO_EVENT       0.80      0.88      0.84     12371
+    POLITICS       0.67      0.49      0.57      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.76      0.69      0.72     20036
+weighted avg       0.78      0.78      0.78     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1579        10       866        25
+DISASTER        21      1898       589        18
+NO_EVENT       451       446     10890       584
+POLITICS        48        29      1286      1296
+
+------------------------------------------------------------
+
+Model: gelu_adam_0.4_256x128 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.74      0.64      0.68      2480
+    DISASTER       0.80      0.76      0.78      2526
+    NO_EVENT       0.80      0.88      0.84     12371
+    POLITICS       0.66      0.50      0.57      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.75      0.69      0.72     20036
+weighted avg       0.78      0.78      0.78     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1579        13       844        44
+DISASTER        19      1920       559        28
+NO_EVENT       484       435     10838       614
+POLITICS        63        46      1230      1320
+
+------------------------------------------------------------
+
+Model: relu_adam_0.4_256x256x64 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.73      0.65      0.69      2480
+    DISASTER       0.79      0.75      0.77      2526
+    NO_EVENT       0.80      0.87      0.84     12371
+    POLITICS       0.67      0.50      0.57      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.75      0.69      0.72     20036
+weighted avg       0.78      0.78      0.78     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1609        10       822        39
+DISASTER        21      1904       585        16
+NO_EVENT       514       452     10796       609
+POLITICS        54        39      1226      1340
+
+------------------------------------------------------------
+
+Model: gelu_rmsprop_0.0_128x64 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.74      0.63      0.68      2480
+    DISASTER       0.78      0.77      0.78      2526
+    NO_EVENT       0.81      0.87      0.84     12371
+    POLITICS       0.65      0.52      0.58      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.75      0.70      0.72     20036
+weighted avg       0.78      0.78      0.78     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1572         9       857        42
+DISASTER        21      1948       530        27
+NO_EVENT       486       473     10744       668
+POLITICS        56        53      1172      1378
+
+------------------------------------------------------------
+
+Model: relu_rmsprop_0.0_256x128 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.73      0.65      0.69      2480
+    DISASTER       0.78      0.75      0.77      2526
+    NO_EVENT       0.81      0.86      0.84     12371
+    POLITICS       0.65      0.54      0.59      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.74      0.70      0.72     20036
+weighted avg       0.78      0.78      0.78     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1618         7       819        36
+DISASTER        29      1902       562        33
+NO_EVENT       500       492     10689       690
+POLITICS        59        37      1140      1423
+
+------------------------------------------------------------
+
+Model: relu_rmsprop_0.4_512x256x128 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.76      0.61      0.68      2480
+    DISASTER       0.80      0.75      0.77      2526
+    NO_EVENT       0.80      0.88      0.84     12371
+    POLITICS       0.65      0.52      0.58      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.75      0.69      0.72     20036
+weighted avg       0.78      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1514         9       920        37
+DISASTER        20      1885       599        22
+NO_EVENT       413       432     10862       664
+POLITICS        50        38      1201      1370
+
+------------------------------------------------------------
+
+Model: relu_adam_0.0_256x128 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.75      0.63      0.69      2480
+    DISASTER       0.79      0.76      0.78      2526
+    NO_EVENT       0.81      0.87      0.84     12371
+    POLITICS       0.63      0.54      0.58      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.75      0.70      0.72     20036
+weighted avg       0.78      0.78      0.78     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1565         8       865        42
+DISASTER        27      1922       538        39
+NO_EVENT       436       461     10719       755
+POLITICS        58        34      1144      1423
+
+------------------------------------------------------------
+
+Model: relu_adam_0.0_256x256x64 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.75      0.62      0.68      2480
+    DISASTER       0.79      0.76      0.77      2526
+    NO_EVENT       0.81      0.87      0.84     12371
+    POLITICS       0.64      0.54      0.59      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.75      0.70      0.72     20036
+weighted avg       0.78      0.78      0.78     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1528        17       895        40
+DISASTER        20      1908       564        34
+NO_EVENT       436       438     10751       746
+POLITICS        55        40      1123      1441
+
+------------------------------------------------------------
+
+Model: gelu_rmsprop_0.0_256x128 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.75      0.61      0.67      2480
+    DISASTER       0.80      0.75      0.77      2526
+    NO_EVENT       0.80      0.87      0.84     12371
+    POLITICS       0.65      0.53      0.58      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.75      0.69      0.72     20036
+weighted avg       0.77      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1519        12       899        50
+DISASTER        19      1883       594        30
+NO_EVENT       438       428     10807       698
+POLITICS        56        43      1142      1418
+
+------------------------------------------------------------
+
+Model: relu_adam_0.0_512x256x128 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.72      0.64      0.67      2480
+    DISASTER       0.79      0.77      0.78      2526
+    NO_EVENT       0.81      0.87      0.84     12371
+    POLITICS       0.66      0.51      0.57      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.74      0.70      0.72     20036
+weighted avg       0.77      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1578         9       846        47
+DISASTER        24      1934       525        43
+NO_EVENT       532       457     10761       621
+POLITICS        62        42      1202      1353
+
+------------------------------------------------------------
+
+Model: relu_rmsprop_0.2_256x128 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.71      0.67      0.69      2480
+    DISASTER       0.79      0.77      0.78      2526
+    NO_EVENT       0.81      0.86      0.83     12371
+    POLITICS       0.66      0.50      0.57      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.74      0.70      0.72     20036
+weighted avg       0.77      0.78      0.78     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1673        12       766        29
+DISASTER        25      1940       537        24
+NO_EVENT       583       465     10680       643
+POLITICS        61        32      1233      1333
+
+------------------------------------------------------------
+
+Model: gelu_rmsprop_0.4_256x128 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.73      0.64      0.68      2480
+    DISASTER       0.80      0.75      0.77      2526
+    NO_EVENT       0.80      0.87      0.84     12371
+    POLITICS       0.65      0.51      0.57      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.75      0.69      0.72     20036
+weighted avg       0.77      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1583        10       852        35
+DISASTER        22      1890       581        33
+NO_EVENT       499       418     10800       654
+POLITICS        52        34      1223      1350
+
+------------------------------------------------------------
+
+Model: tanh_adam_0.2_128x64 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.72      0.65      0.68      2480
+    DISASTER       0.79      0.75      0.77      2526
+    NO_EVENT       0.80      0.88      0.84     12371
+    POLITICS       0.67      0.48      0.56      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.75      0.69      0.71     20036
+weighted avg       0.77      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1600        13       839        28
+DISASTER        23      1898       575        30
+NO_EVENT       537       433     10836       565
+POLITICS        54        45      1275      1285
+
+------------------------------------------------------------
+
+Model: gelu_rmsprop_0.2_256x128 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.72      0.65      0.68      2480
+    DISASTER       0.80      0.74      0.77      2526
+    NO_EVENT       0.80      0.87      0.84     12371
+    POLITICS       0.65      0.51      0.57      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.75      0.69      0.72     20036
+weighted avg       0.77      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1618        13       809        40
+DISASTER        21      1871       603        31
+NO_EVENT       549       406     10774       642
+POLITICS        66        36      1204      1353
+
+------------------------------------------------------------
+
+Model: tanh_adam_0.0_128x64 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.73      0.64      0.68      2480
+    DISASTER       0.80      0.74      0.77      2526
+    NO_EVENT       0.80      0.87      0.84     12371
+    POLITICS       0.65      0.50      0.57      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.75      0.69      0.71     20036
+weighted avg       0.77      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1596         9       838        37
+DISASTER        22      1871       597        36
+NO_EVENT       508       406     10812       645
+POLITICS        58        41      1225      1335
+
+------------------------------------------------------------
+
+Model: relu_rmsprop_0.2_256x256x64 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.76      0.61      0.67      2480
+    DISASTER       0.79      0.74      0.77      2526
+    NO_EVENT       0.80      0.88      0.84     12371
+    POLITICS       0.66      0.49      0.57      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.75      0.68      0.71     20036
+weighted avg       0.77      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1507        11       934        28
+DISASTER        21      1871       608        26
+NO_EVENT       405       434     10928       604
+POLITICS        63        46      1244      1306
+
+------------------------------------------------------------
+
+Model: gelu_adam_0.4_128x64 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.75      0.62      0.68      2480
+    DISASTER       0.79      0.76      0.77      2526
+    NO_EVENT       0.80      0.88      0.84     12371
+    POLITICS       0.66      0.49      0.56      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.75      0.69      0.71     20036
+weighted avg       0.77      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1528         9       901        42
+DISASTER        20      1917       561        28
+NO_EVENT       441       461     10868       601
+POLITICS        55        40      1266      1298
+
+------------------------------------------------------------
+
+Model: gelu_rmsprop_0.4_128x64 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.73      0.63      0.68      2480
+    DISASTER       0.80      0.75      0.77      2526
+    NO_EVENT       0.80      0.88      0.84     12371
+    POLITICS       0.67      0.49      0.56      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.75      0.69      0.71     20036
+weighted avg       0.77      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1552         8       883        37
+DISASTER        24      1898       583        21
+NO_EVENT       486       431     10866       588
+POLITICS        54        41      1274      1290
+
+------------------------------------------------------------
+
+Model: relu_adam_0.4_512x256x128 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.72      0.65      0.69      2480
+    DISASTER       0.80      0.75      0.77      2526
+    NO_EVENT       0.79      0.89      0.84     12371
+    POLITICS       0.70      0.43      0.53      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.75      0.68      0.71     20036
+weighted avg       0.77      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1615        12       831        22
+DISASTER        25      1894       589        18
+NO_EVENT       528       426     10962       455
+POLITICS        64        36      1425      1134
+
+------------------------------------------------------------
+
+Model: gelu_adam_0.0_128x64 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.74      0.62      0.67      2480
+    DISASTER       0.80      0.75      0.77      2526
+    NO_EVENT       0.80      0.88      0.84     12371
+    POLITICS       0.65      0.50      0.57      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.75      0.69      0.71     20036
+weighted avg       0.77      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1528        12       904        36
+DISASTER        23      1886       584        33
+NO_EVENT       449       422     10848       652
+POLITICS        56        37      1227      1339
+
+------------------------------------------------------------
+
+Model: tanh_rmsprop_0.0_256x128 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.74      0.62      0.68      2480
+    DISASTER       0.80      0.74      0.77      2526
+    NO_EVENT       0.80      0.88      0.84     12371
+    POLITICS       0.66      0.50      0.57      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.75      0.68      0.71     20036
+weighted avg       0.77      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1547        11       877        45
+DISASTER        23      1864       603        36
+NO_EVENT       479       431     10853       608
+POLITICS        54        38      1236      1331
+
+------------------------------------------------------------
+
+Model: gelu_adam_0.0_256x128 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.73      0.63      0.68      2480
+    DISASTER       0.80      0.74      0.77      2526
+    NO_EVENT       0.80      0.88      0.84     12371
+    POLITICS       0.66      0.49      0.56      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.75      0.69      0.71     20036
+weighted avg       0.77      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1560        13       864        43
+DISASTER        22      1874       598        32
+NO_EVENT       492       423     10851       605
+POLITICS        55        40      1255      1309
+
+------------------------------------------------------------
+
+Model: tanh_rmsprop_0.0_128x64 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.74      0.62      0.68      2480
+    DISASTER       0.77      0.77      0.77      2526
+    NO_EVENT       0.81      0.86      0.83     12371
+    POLITICS       0.63      0.56      0.59      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.74      0.70      0.72     20036
+weighted avg       0.77      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1539        13       876        52
+DISASTER        22      1956       512        36
+NO_EVENT       459       526     10606       780
+POLITICS        52        53      1062      1492
+
+------------------------------------------------------------
+
+Model: relu_rmsprop_0.2_512x256x128 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.74      0.61      0.67      2480
+    DISASTER       0.77      0.79      0.78      2526
+    NO_EVENT       0.81      0.87      0.83     12371
+    POLITICS       0.65      0.51      0.57      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.74      0.69      0.71     20036
+weighted avg       0.77      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1514        15       905        46
+DISASTER        17      1997       476        36
+NO_EVENT       469       544     10722       636
+POLITICS        49        42      1209      1359
+
+------------------------------------------------------------
+
+Model: tanh_rmsprop_0.0_256x256x64 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.75      0.62      0.68      2480
+    DISASTER       0.79      0.75      0.77      2526
+    NO_EVENT       0.79      0.89      0.84     12371
+    POLITICS       0.68      0.45      0.54      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.75      0.68      0.71     20036
+weighted avg       0.77      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1545        11       883        41
+DISASTER        22      1886       602        16
+NO_EVENT       444       454     10955       518
+POLITICS        49        43      1361      1206
+
+------------------------------------------------------------
+
+Model: tanh_rmsprop_0.2_256x128 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.72      0.65      0.68      2480
+    DISASTER       0.80      0.74      0.77      2526
+    NO_EVENT       0.81      0.87      0.83     12371
+    POLITICS       0.65      0.53      0.58      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.74      0.70      0.72     20036
+weighted avg       0.77      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1622         5       817        36
+DISASTER        29      1857       607        33
+NO_EVENT       554       408     10716       693
+POLITICS        62        40      1161      1396
+
+------------------------------------------------------------
+
+Model: gelu_adam_0.4_256x256x64 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.72      0.64      0.68      2480
+    DISASTER       0.79      0.75      0.77      2526
+    NO_EVENT       0.80      0.88      0.84     12371
+    POLITICS       0.67      0.47      0.55      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.75      0.68      0.71     20036
+weighted avg       0.77      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1587        17       838        38
+DISASTER        21      1894       586        25
+NO_EVENT       532       440     10861       538
+POLITICS        61        45      1306      1247
+
+------------------------------------------------------------
+
+Model: tanh_rmsprop_0.4_128x64 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.73      0.64      0.68      2480
+    DISASTER       0.80      0.74      0.77      2526
+    NO_EVENT       0.80      0.88      0.84     12371
+    POLITICS       0.67      0.47      0.55      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.75      0.68      0.71     20036
+weighted avg       0.77      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1583        10       861        26
+DISASTER        23      1868       611        24
+NO_EVENT       509       412     10881       569
+POLITICS        61        44      1302      1252
+
+------------------------------------------------------------
+
+Model: tanh_adam_0.0_256x128 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.73      0.64      0.68      2480
+    DISASTER       0.80      0.73      0.76      2526
+    NO_EVENT       0.80      0.88      0.84     12371
+    POLITICS       0.65      0.49      0.56      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.75      0.68      0.71     20036
+weighted avg       0.77      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1588        10       843        39
+DISASTER        20      1837       634        35
+NO_EVENT       498       395     10844       634
+POLITICS        63        40      1242      1314
+
+------------------------------------------------------------
+
+Model: relu_rmsprop_0.0_256x256x64 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.76      0.61      0.68      2480
+    DISASTER       0.78      0.78      0.78      2526
+    NO_EVENT       0.80      0.87      0.83     12371
+    POLITICS       0.63      0.52      0.57      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.74      0.69      0.72     20036
+weighted avg       0.77      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1519        15       901        45
+DISASTER        20      1960       516        30
+NO_EVENT       427       499     10710       735
+POLITICS        39        47      1183      1390
+
+------------------------------------------------------------
+
+Model: gelu_rmsprop_0.2_128x64 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.71      0.66      0.69      2480
+    DISASTER       0.79      0.75      0.77      2526
+    NO_EVENT       0.80      0.87      0.83     12371
+    POLITICS       0.65      0.50      0.56      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.74      0.69      0.71     20036
+weighted avg       0.77      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1633        11       800        36
+DISASTER        27      1900       569        30
+NO_EVENT       560       454     10718       639
+POLITICS        64        43      1228      1324
+
+------------------------------------------------------------
+
+Model: relu_rmsprop_0.4_256x256x64 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.74      0.62      0.68      2480
+    DISASTER       0.78      0.77      0.77      2526
+    NO_EVENT       0.80      0.87      0.83     12371
+    POLITICS       0.64      0.52      0.57      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.74      0.69      0.71     20036
+weighted avg       0.77      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1546         7       887        40
+DISASTER        19      1934       548        25
+NO_EVENT       466       491     10712       702
+POLITICS        52        34      1196      1377
+
+------------------------------------------------------------
+
+Model: gelu_adam_0.2_128x64 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.73      0.64      0.68      2480
+    DISASTER       0.78      0.76      0.77      2526
+    NO_EVENT       0.80      0.87      0.83     12371
+    POLITICS       0.66      0.48      0.56      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.74      0.69      0.71     20036
+weighted avg       0.77      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1576        11       862        31
+DISASTER        19      1924       558        25
+NO_EVENT       498       477     10783       613
+POLITICS        64        49      1260      1286
+
+------------------------------------------------------------
+
+Model: tanh_adam_0.4_128x64 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.72      0.64      0.67      2480
+    DISASTER       0.80      0.76      0.78      2526
+    NO_EVENT       0.80      0.87      0.83     12371
+    POLITICS       0.64      0.51      0.57      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.74      0.69      0.71     20036
+weighted avg       0.77      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1582        10       853        35
+DISASTER        21      1926       547        32
+NO_EVENT       544       443     10702       682
+POLITICS        65        40      1199      1355
+
+------------------------------------------------------------
+
+Model: gelu_adam_0.0_256x256x64 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.72      0.63      0.67      2480
+    DISASTER       0.82      0.72      0.77      2526
+    NO_EVENT       0.79      0.89      0.84     12371
+    POLITICS       0.67      0.44      0.53      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.75      0.67      0.70     20036
+weighted avg       0.77      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1560         9       867        44
+DISASTER        24      1826       652        24
+NO_EVENT       511       361     10998       501
+POLITICS        57        33      1393      1176
+
+------------------------------------------------------------
+
+Model: gelu_rmsprop_0.4_256x256x64 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.74      0.62      0.67      2480
+    DISASTER       0.81      0.74      0.77      2526
+    NO_EVENT       0.79      0.88      0.83     12371
+    POLITICS       0.67      0.47      0.55      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.75      0.68      0.71     20036
+weighted avg       0.77      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1536        11       898        35
+DISASTER        17      1859       632        18
+NO_EVENT       479       405     10909       578
+POLITICS        48        34      1322      1255
+
+------------------------------------------------------------
+
+Model: tanh_rmsprop_0.4_256x256x64 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.71      0.66      0.69      2480
+    DISASTER       0.78      0.77      0.78      2526
+    NO_EVENT       0.81      0.86      0.83     12371
+    POLITICS       0.64      0.52      0.57      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.74      0.70      0.72     20036
+weighted avg       0.77      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1642        12       782        44
+DISASTER        24      1942       540        20
+NO_EVENT       592       476     10598       705
+POLITICS        54        49      1181      1375
+
+------------------------------------------------------------
+
+Model: tanh_adam_0.2_256x256x64 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.75      0.61      0.67      2480
+    DISASTER       0.79      0.74      0.77      2526
+    NO_EVENT       0.79      0.89      0.84     12371
+    POLITICS       0.67      0.46      0.54      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.75      0.67      0.70     20036
+weighted avg       0.77      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1511        11       919        39
+DISASTER        20      1869       613        24
+NO_EVENT       442       438     10962       529
+POLITICS        42        40      1362      1215
+
+------------------------------------------------------------
+
+Model: tanh_adam_0.2_256x128 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.74      0.61      0.67      2480
+    DISASTER       0.79      0.75      0.77      2526
+    NO_EVENT       0.80      0.87      0.83     12371
+    POLITICS       0.64      0.51      0.57      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.74      0.69      0.71     20036
+weighted avg       0.77      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1523        14       900        43
+DISASTER        19      1885       592        30
+NO_EVENT       467       434     10788       682
+POLITICS        55        43      1204      1357
+
+------------------------------------------------------------
+
+Model: relu_rmsprop_0.0_512x256x128 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.76      0.62      0.68      2480
+    DISASTER       0.79      0.73      0.76      2526
+    NO_EVENT       0.80      0.87      0.83     12371
+    POLITICS       0.64      0.52      0.57      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.75      0.68      0.71     20036
+weighted avg       0.77      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1526         9       905        40
+DISASTER        21      1832       639        34
+NO_EVENT       409       441     10800       721
+POLITICS        43        25      1198      1393
+
+------------------------------------------------------------
+
+Model: gelu_adam_0.2_256x128 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.73      0.63      0.68      2480
+    DISASTER       0.79      0.75      0.77      2526
+    NO_EVENT       0.80      0.87      0.83     12371
+    POLITICS       0.64      0.51      0.57      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.74      0.69      0.71     20036
+weighted avg       0.77      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1565        12       865        38
+DISASTER        24      1893       574        35
+NO_EVENT       501       443     10735       692
+POLITICS        63        38      1202      1356
+
+------------------------------------------------------------
+
+Model: tanh_rmsprop_0.4_256x128 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.72      0.64      0.68      2480
+    DISASTER       0.79      0.75      0.77      2526
+    NO_EVENT       0.80      0.87      0.83     12371
+    POLITICS       0.64      0.51      0.57      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.74      0.69      0.71     20036
+weighted avg       0.77      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1579        14       845        42
+DISASTER        23      1899       579        25
+NO_EVENT       536       440     10715       680
+POLITICS        55        47      1202      1355
+
+------------------------------------------------------------
+
+Model: gelu_adam_0.4_512x256x128 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.72      0.64      0.68      2480
+    DISASTER       0.80      0.74      0.77      2526
+    NO_EVENT       0.80      0.88      0.83     12371
+    POLITICS       0.66      0.46      0.55      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.74      0.68      0.71     20036
+weighted avg       0.77      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1583        14       838        45
+DISASTER        19      1879       608        20
+NO_EVENT       533       429     10852       557
+POLITICS        58        37      1330      1234
+
+------------------------------------------------------------
+
+Model: tanh_adam_0.4_256x128 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.73      0.62      0.67      2480
+    DISASTER       0.79      0.76      0.77      2526
+    NO_EVENT       0.80      0.87      0.83     12371
+    POLITICS       0.64      0.50      0.57      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.74      0.69      0.71     20036
+weighted avg       0.77      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1548         8       891        33
+DISASTER        18      1925       550        33
+NO_EVENT       492       473     10732       674
+POLITICS        59        37      1223      1340
+
+------------------------------------------------------------
+
+Model: tanh_adam_0.2_512x256x128 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.73      0.64      0.68      2480
+    DISASTER       0.79      0.75      0.77      2526
+    NO_EVENT       0.80      0.87      0.83     12371
+    POLITICS       0.64      0.49      0.56      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.74      0.69      0.71     20036
+weighted avg       0.77      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1591        14       823        52
+DISASTER        17      1882       599        28
+NO_EVENT       514       454     10756       647
+POLITICS        47        40      1256      1316
+
+------------------------------------------------------------
+
+Model: gelu_adam_0.2_256x256x64 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.71      0.65      0.68      2480
+    DISASTER       0.79      0.75      0.77      2526
+    NO_EVENT       0.80      0.87      0.83     12371
+    POLITICS       0.67      0.46      0.55      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.74      0.68      0.71     20036
+weighted avg       0.77      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1619        13       806        42
+DISASTER        22      1888       591        25
+NO_EVENT       575       459     10796       541
+POLITICS        58        36      1336      1229
+
+------------------------------------------------------------
+
+Model: tanh_rmsprop_0.4_512x256x128 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.74      0.61      0.67      2480
+    DISASTER       0.79      0.75      0.77      2526
+    NO_EVENT       0.80      0.88      0.83     12371
+    POLITICS       0.65      0.49      0.56      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.75      0.68      0.71     20036
+weighted avg       0.77      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1507         9       922        42
+DISASTER        17      1890       595        24
+NO_EVENT       463       444     10841       623
+POLITICS        44        46      1276      1293
+
+------------------------------------------------------------
+
+Model: tanh_adam_0.0_256x256x64 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.73      0.62      0.67      2480
+    DISASTER       0.79      0.74      0.76      2526
+    NO_EVENT       0.80      0.88      0.83     12371
+    POLITICS       0.66      0.48      0.56      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.74      0.68      0.71     20036
+weighted avg       0.77      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1545        11       883        41
+DISASTER        26      1860       616        24
+NO_EVENT       491       451     10852       577
+POLITICS        55        39      1293      1272
+
+------------------------------------------------------------
+
+Model: gelu_rmsprop_0.2_256x256x64 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.73      0.61      0.67      2480
+    DISASTER       0.80      0.73      0.77      2526
+    NO_EVENT       0.79      0.89      0.84     12371
+    POLITICS       0.67      0.45      0.54      2659
+
+    accuracy                           0.78     20036
+   macro avg       0.75      0.67      0.70     20036
+weighted avg       0.77      0.78      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1525        13       900        42
+DISASTER        21      1854       618        33
+NO_EVENT       479       417     10952       523
+POLITICS        53        35      1373      1198
+
+------------------------------------------------------------
+
+Model: tanh_rmsprop_0.2_256x256x64 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.74      0.62      0.67      2480
+    DISASTER       0.77      0.77      0.77      2526
+    NO_EVENT       0.80      0.87      0.83     12371
+    POLITICS       0.64      0.48      0.55      2659
+
+    accuracy                           0.77     20036
+   macro avg       0.74      0.68      0.71     20036
+weighted avg       0.77      0.77      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1529        10       890        51
+DISASTER        26      1936       534        30
+NO_EVENT       461       504     10783       623
+POLITICS        49        51      1281      1278
+
+------------------------------------------------------------
+
+Model: tanh_rmsprop_0.2_128x64 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.71      0.65      0.68      2480
+    DISASTER       0.80      0.74      0.77      2526
+    NO_EVENT       0.81      0.86      0.83     12371
+    POLITICS       0.63      0.54      0.58      2659
+
+    accuracy                           0.77     20036
+   macro avg       0.74      0.70      0.71     20036
+weighted avg       0.77      0.77      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1617         8       819        36
+DISASTER        26      1870       599        31
+NO_EVENT       578       428     10611       754
+POLITICS        68        44      1121      1426
+
+------------------------------------------------------------
+
+Model: gelu_adam_0.2_512x256x128 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.76      0.60      0.67      2480
+    DISASTER       0.78      0.76      0.77      2526
+    NO_EVENT       0.79      0.89      0.84     12371
+    POLITICS       0.68      0.42      0.52      2659
+
+    accuracy                           0.77     20036
+   macro avg       0.75      0.67      0.70     20036
+weighted avg       0.77      0.77      0.76     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1483        18       939        40
+DISASTER        20      1930       554        22
+NO_EVENT       413       500     10984       474
+POLITICS        45        41      1448      1125
+
+------------------------------------------------------------
+
+Model: tanh_adam_0.4_512x256x128 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.71      0.65      0.68      2480
+    DISASTER       0.78      0.76      0.77      2526
+    NO_EVENT       0.81      0.85      0.83     12371
+    POLITICS       0.63      0.53      0.58      2659
+
+    accuracy                           0.77     20036
+   macro avg       0.73      0.70      0.71     20036
+weighted avg       0.77      0.77      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1618        18       800        44
+DISASTER        24      1921       557        24
+NO_EVENT       574       476     10575       746
+POLITICS        56        45      1152      1406
+
+------------------------------------------------------------
+
+Model: gelu_rmsprop_0.0_256x256x64 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.72      0.61      0.66      2480
+    DISASTER       0.79      0.74      0.77      2526
+    NO_EVENT       0.79      0.88      0.83     12371
+    POLITICS       0.68      0.45      0.54      2659
+
+    accuracy                           0.77     20036
+   macro avg       0.75      0.67      0.70     20036
+weighted avg       0.77      0.77      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1523        13       908        36
+DISASTER        19      1879       608        20
+NO_EVENT       501       441     10907       522
+POLITICS        60        32      1364      1203
+
+------------------------------------------------------------
+
+Model: tanh_adam_0.4_256x256x64 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.73      0.63      0.68      2480
+    DISASTER       0.77      0.77      0.77      2526
+    NO_EVENT       0.80      0.86      0.83     12371
+    POLITICS       0.64      0.51      0.56      2659
+
+    accuracy                           0.77     20036
+   macro avg       0.74      0.69      0.71     20036
+weighted avg       0.77      0.77      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1558         9       877        36
+DISASTER        25      1948       521        32
+NO_EVENT       490       520     10662       699
+POLITICS        56        56      1204      1343
+
+------------------------------------------------------------
+
+Model: tanh_rmsprop_0.0_512x256x128 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.74      0.61      0.66      2480
+    DISASTER       0.79      0.74      0.77      2526
+    NO_EVENT       0.80      0.87      0.83     12371
+    POLITICS       0.64      0.50      0.56      2659
+
+    accuracy                           0.77     20036
+   macro avg       0.74      0.68      0.71     20036
+weighted avg       0.77      0.77      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1502         6       937        35
+DISASTER        19      1877       602        28
+NO_EVENT       462       437     10793       679
+POLITICS        58        46      1234      1321
+
+------------------------------------------------------------
+
+Model: gelu_adam_0.0_512x256x128 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.74      0.60      0.66      2480
+    DISASTER       0.80      0.72      0.76      2526
+    NO_EVENT       0.79      0.88      0.83     12371
+    POLITICS       0.65      0.48      0.55      2659
+
+    accuracy                           0.77     20036
+   macro avg       0.74      0.67      0.70     20036
+weighted avg       0.77      0.77      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1490        16       919        55
+DISASTER        14      1827       664        21
+NO_EVENT       470       390     10885       626
+POLITICS        49        37      1287      1286
+
+------------------------------------------------------------
+
+Model: tanh_rmsprop_0.2_512x256x128 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.72      0.62      0.67      2480
+    DISASTER       0.79      0.75      0.77      2526
+    NO_EVENT       0.79      0.88      0.83     12371
+    POLITICS       0.66      0.46      0.54      2659
+
+    accuracy                           0.77     20036
+   macro avg       0.74      0.68      0.70     20036
+weighted avg       0.77      0.77      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1535        10       891        44
+DISASTER        21      1900       577        28
+NO_EVENT       512       464     10842       553
+POLITICS        52        39      1358      1210
+
+------------------------------------------------------------
+
+Model: gelu_rmsprop_0.0_512x256x128 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.71      0.65      0.68      2480
+    DISASTER       0.79      0.73      0.76      2526
+    NO_EVENT       0.80      0.87      0.83     12371
+    POLITICS       0.65      0.50      0.56      2659
+
+    accuracy                           0.77     20036
+   macro avg       0.74      0.69      0.71     20036
+weighted avg       0.77      0.77      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1608        12       819        41
+DISASTER        20      1838       644        24
+NO_EVENT       578       424     10708       661
+POLITICS        63        44      1221      1331
+
+------------------------------------------------------------
+
+Model: gelu_rmsprop_0.2_512x256x128 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.74      0.61      0.67      2480
+    DISASTER       0.79      0.74      0.77      2526
+    NO_EVENT       0.79      0.88      0.83     12371
+    POLITICS       0.64      0.47      0.54      2659
+
+    accuracy                           0.77     20036
+   macro avg       0.74      0.67      0.70     20036
+weighted avg       0.77      0.77      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1502         7       927        44
+DISASTER        22      1875       592        37
+NO_EVENT       436       452     10843       640
+POLITICS        60        35      1301      1263
+
+------------------------------------------------------------
+
+Model: gelu_rmsprop_0.4_512x256x128 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.72      0.64      0.68      2480
+    DISASTER       0.80      0.73      0.76      2526
+    NO_EVENT       0.79      0.88      0.83     12371
+    POLITICS       0.66      0.46      0.54      2659
+
+    accuracy                           0.77     20036
+   macro avg       0.74      0.67      0.70     20036
+weighted avg       0.77      0.77      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1580         9       846        45
+DISASTER        21      1834       643        28
+NO_EVENT       546       418     10838       569
+POLITICS        50        35      1352      1222
+
+------------------------------------------------------------
+
+Model: tanh_adam_0.0_512x256x128 ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.73      0.63      0.67      2480
+    DISASTER       0.78      0.75      0.77      2526
+    NO_EVENT       0.81      0.85      0.83     12371
+    POLITICS       0.60      0.57      0.58      2659
+
+    accuracy                           0.77     20036
+   macro avg       0.73      0.70      0.71     20036
+weighted avg       0.77      0.77      0.77     20036
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS      1555        13       853        59
+DISASTER        20      1898       571        37
+NO_EVENT       513       463     10498       897
+POLITICS        44        45      1067      1503
+
+------------------------------------------------------------

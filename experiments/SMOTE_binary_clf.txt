@@ -1,0 +1,81 @@
+
+================================ TESTOWANIE: Bag_of_Words =============================
+MODEL                     | ACCURACY   | PRECISION   | RECALL F1   | MACRO F1
+--------------------------------------------------
+Naive Bayes               | 0.7263     | 0.7199      | 0.7284      | 0.7209
+Neural Network            | 0.6907     | 0.6796      | 0.6835      | 0.6809
+Logistic Regression       | 0.6757     | 0.6712      | 0.6783      | 0.6705
+Random Forest             | 0.6570     | 0.6528      | 0.6592      | 0.6516
+SVM (LinearSVC)           | 0.6317     | 0.6297      | 0.6354      | 0.6270
+
+================================ TESTOWANIE: SBERT_mini =============================
+MODEL                     | ACCURACY   | PRECISION   | RECALL F1   | MACRO F1
+--------------------------------------------------
+Random Forest             | 0.5754     | 0.5290      | 0.5216      | 0.5084
+Neural Network            | 0.5239     | 0.5034      | 0.5034      | 0.5034
+Naive Bayes               | 0.5230     | 0.4985      | 0.4986      | 0.4984
+SVM (LinearSVC)           | 0.5173     | 0.5107      | 0.5112      | 0.5084
+Logistic Regression       | 0.5164     | 0.5115      | 0.5120      | 0.5085
+
+================================ TESTOWANIE: SBERT =============================
+MODEL                     | ACCURACY   | PRECISION   | RECALL F1   | MACRO F1
+--------------------------------------------------
+Random Forest             | 0.5745     | 0.5213      | 0.5144      | 0.4943
+Naive Bayes               | 0.5492     | 0.5187      | 0.5175      | 0.5164
+Neural Network            | 0.5286     | 0.4812      | 0.4840      | 0.4760
+Logistic Regression       | 0.5230     | 0.5099      | 0.5102      | 0.5093
+SVM (LinearSVC)           | 0.5136     | 0.5012      | 0.5012      | 0.5003
+
+============================================================
+SZCZEGÓŁOWE RAPORTY KLASYFIKACJI
+============================================================
+
+--- Metoda: Bag_of_Words | Model: Naive Bayes ---
+              precision    recall  f1-score   support
+
+    NO_EVENT       0.81      0.72      0.76       643
+       EVENT       0.63      0.74      0.68       424
+
+    accuracy                           0.73      1067
+   macro avg       0.72      0.73      0.72      1067
+weighted avg       0.74      0.73      0.73      1067
+
+--- Metoda: Bag_of_Words | Model: Neural Network ---
+              precision    recall  f1-score   support
+
+    NO_EVENT       0.76      0.72      0.74       643
+       EVENT       0.60      0.65      0.62       424
+
+    accuracy                           0.69      1067
+   macro avg       0.68      0.68      0.68      1067
+weighted avg       0.70      0.69      0.69      1067
+
+--- Metoda: Bag_of_Words | Model: Logistic Regression ---
+              precision    recall  f1-score   support
+
+    NO_EVENT       0.77      0.67      0.71       643
+       EVENT       0.58      0.69      0.63       424
+
+    accuracy                           0.68      1067
+   macro avg       0.67      0.68      0.67      1067
+weighted avg       0.69      0.68      0.68      1067
+
+--- Metoda: Bag_of_Words | Model: Random Forest ---
+              precision    recall  f1-score   support
+
+    NO_EVENT       0.75      0.65      0.69       643
+       EVENT       0.56      0.67      0.61       424
+
+    accuracy                           0.66      1067
+   macro avg       0.65      0.66      0.65      1067
+weighted avg       0.67      0.66      0.66      1067
+
+--- Metoda: Bag_of_Words | Model: SVM (LinearSVC) ---
+              precision    recall  f1-score   support
+
+    NO_EVENT       0.73      0.62      0.67       643
+       EVENT       0.53      0.65      0.59       424
+
+    accuracy                           0.63      1067
+   macro avg       0.63      0.64      0.63      1067
+weighted avg       0.65      0.63      0.64      1067

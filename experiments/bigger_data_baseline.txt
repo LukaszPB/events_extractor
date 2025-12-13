@@ -1,0 +1,141 @@
+
+================================ TESTOWANIE: Bag_of_Words =============================
+MODEL                     | ACCURACY   | PRECISION   | RECALL F1   | MACRO F1
+--------------------------------------------------
+Neural Network            | 0.7463     | 0.7153      | 0.6276      | 0.6628
+Logistic Regression       | 0.7289     | 0.6823      | 0.6113      | 0.6406
+Random Forest             | 0.6985     | 0.6582      | 0.5347      | 0.5766
+Naive Bayes               | 0.6936     | 0.6243      | 0.7139      | 0.6574
+SVM (LinearSVC)           | 0.6888     | 0.6088      | 0.6391      | 0.6225
+
+================================ TESTOWANIE: SBERT_mini =============================
+MODEL                     | ACCURACY   | PRECISION   | RECALL F1   | MACRO F1
+--------------------------------------------------
+Neural Network            | 0.7662     | 0.7451      | 0.6398      | 0.6783
+Logistic Regression       | 0.7612     | 0.7352      | 0.6431      | 0.6788
+SVM (LinearSVC)           | 0.7283     | 0.6583      | 0.7342      | 0.6891
+Random Forest             | 0.6830     | 0.7942      | 0.3972      | 0.4186
+Naive Bayes               | 0.6129     | 0.5745      | 0.7167      | 0.6082
+
+================================ TESTOWANIE: SBERT =============================
+MODEL                     | ACCURACY   | PRECISION   | RECALL F1   | MACRO F1
+--------------------------------------------------
+Neural Network            | 0.7818     | 0.7515      | 0.6942      | 0.7192
+Logistic Regression       | 0.7788     | 0.7526      | 0.6805      | 0.7102
+SVM (LinearSVC)           | 0.7532     | 0.6886      | 0.7570      | 0.7174
+Random Forest             | 0.6938     | 0.8412      | 0.4176      | 0.4484
+Naive Bayes               | 0.6247     | 0.5882      | 0.7354      | 0.6227
+
+============================================================
+SZCZEGÓŁOWE RAPORTY KLASYFIKACJI
+============================================================
+
+--- Metoda: SBERT | Model: Neural Network ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.73      0.67      0.70       620
+    DISASTER       0.82      0.73      0.77       631
+    NO_EVENT       0.80      0.87      0.84      3093
+    POLITICS       0.65      0.51      0.57       665
+
+    accuracy                           0.78      5009
+   macro avg       0.75      0.69      0.72      5009
+weighted avg       0.78      0.78      0.78      5009
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS       413         2       193        12
+DISASTER         5       458       157        11
+NO_EVENT       139        91      2706       157
+POLITICS         8         9       309       339
+
+------------------------------------------------------------
+
+--- Metoda: SBERT | Model: Logistic Regression ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.72      0.62      0.67       620
+    DISASTER       0.81      0.74      0.78       631
+    NO_EVENT       0.80      0.88      0.84      3093
+    POLITICS       0.68      0.48      0.56       665
+
+    accuracy                           0.78      5009
+   macro avg       0.75      0.68      0.71      5009
+weighted avg       0.77      0.78      0.77      5009
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS       382         1       225        12
+DISASTER         4       469       149         9
+NO_EVENT       135        97      2731       130
+POLITICS         6        11       329       319
+
+------------------------------------------------------------
+
+--- Metoda: SBERT_mini | Model: Neural Network ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.75      0.59      0.66       620
+    DISASTER       0.79      0.69      0.74       631
+    NO_EVENT       0.78      0.90      0.83      3093
+    POLITICS       0.66      0.37      0.48       665
+
+    accuracy                           0.77      5009
+   macro avg       0.75      0.64      0.68      5009
+weighted avg       0.76      0.77      0.75      5009
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS       367         1       241        11
+DISASTER         5       437       181         8
+NO_EVENT       101        97      2785       110
+POLITICS        15        15       386       249
+
+------------------------------------------------------------
+
+--- Metoda: SBERT_mini | Model: Logistic Regression ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.71      0.57      0.63       620
+    DISASTER       0.79      0.69      0.74       631
+    NO_EVENT       0.78      0.89      0.83      3093
+    POLITICS       0.66      0.42      0.52       665
+
+    accuracy                           0.76      5009
+   macro avg       0.74      0.64      0.68      5009
+weighted avg       0.75      0.76      0.75      5009
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS       354         1       256         9
+DISASTER         5       437       180         9
+NO_EVENT       124       103      2741       125
+POLITICS        14        12       358       281
+
+------------------------------------------------------------
+
+--- Metoda: SBERT | Model: SVM (LinearSVC) ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.62      0.76      0.68       620
+    DISASTER       0.72      0.84      0.78       631
+    NO_EVENT       0.86      0.75      0.80      3093
+    POLITICS       0.56      0.68      0.61       665
+
+    accuracy                           0.75      5009
+   macro avg       0.69      0.76      0.72      5009
+weighted avg       0.77      0.75      0.76      5009
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS       470         2       128        20
+DISASTER        10       530        77        14
+NO_EVENT       268       183      2321       321
+POLITICS        16        21       176       452
+
+------------------------------------------------------------

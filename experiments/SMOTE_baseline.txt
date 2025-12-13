@@ -1,0 +1,91 @@
+
+================================ TESTOWANIE: Bag_of_Words =============================
+MODEL                     | ACCURACY   | PRECISION   | RECALL F1   | MACRO F1
+--------------------------------------------------
+Neural Network            | 0.6945     | 0.5856      | 0.5571      | 0.5698
+Logistic Regression       | 0.6504     | 0.5497      | 0.5885      | 0.5649
+Naive Bayes               | 0.6326     | 0.5612      | 0.7004      | 0.5905
+SVM (LinearSVC)           | 0.6307     | 0.5291      | 0.5836      | 0.5485
+Random Forest             | 0.5323     | 0.4809      | 0.6113      | 0.4936
+
+================================ TESTOWANIE: SBERT_mini =============================
+MODEL                     | ACCURACY   | PRECISION   | RECALL F1   | MACRO F1
+--------------------------------------------------
+Neural Network            | 0.7863     | 0.7174      | 0.6726      | 0.6917
+Random Forest             | 0.7423     | 0.6630      | 0.5961      | 0.6178
+SVM (LinearSVC)           | 0.7020     | 0.6149      | 0.7490      | 0.6509
+Logistic Regression       | 0.6935     | 0.6079      | 0.7393      | 0.6415
+Naive Bayes               | 0.6579     | 0.5635      | 0.6481      | 0.5912
+
+================================ TESTOWANIE: SBERT =============================
+MODEL                     | ACCURACY   | PRECISION   | RECALL F1   | MACRO F1
+--------------------------------------------------
+Neural Network            | 0.7910     | 0.7098      | 0.6996      | 0.7032
+Random Forest             | 0.7610     | 0.6875      | 0.6126      | 0.6352
+SVM (LinearSVC)           | 0.7591     | 0.6675      | 0.7776      | 0.7054
+Logistic Regression       | 0.7395     | 0.6491      | 0.7694      | 0.6872
+Naive Bayes               | 0.6832     | 0.5833      | 0.6554      | 0.6096
+
+============================================================
+SZCZEGÓŁOWE RAPORTY KLASYFIKACJI
+============================================================
+
+--- Metoda: SBERT | Model: Neural Network ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.53      0.59      0.56        68
+    DISASTER       0.85      0.83      0.84       224
+    NO_EVENT       0.83      0.85      0.84       642
+    POLITICS       0.62      0.53      0.57       133
+
+    accuracy                           0.79      1067
+   macro avg       0.71      0.70      0.70      1067
+weighted avg       0.79      0.79      0.79      1067
+
+--- Metoda: SBERT_mini | Model: Neural Network ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.61      0.53      0.57        68
+    DISASTER       0.83      0.82      0.83       224
+    NO_EVENT       0.81      0.87      0.84       642
+    POLITICS       0.62      0.47      0.54       133
+
+    accuracy                           0.79      1067
+   macro avg       0.72      0.67      0.69      1067
+weighted avg       0.78      0.79      0.78      1067
+
+--- Metoda: SBERT | Model: Random Forest ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.56      0.41      0.47        68
+    DISASTER       0.77      0.84      0.81       224
+    NO_EVENT       0.78      0.86      0.82       642
+    POLITICS       0.63      0.34      0.44       133
+
+    accuracy                           0.76      1067
+   macro avg       0.69      0.61      0.64      1067
+weighted avg       0.75      0.76      0.75      1067
+
+--- Metoda: SBERT | Model: SVM (LinearSVC) ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.46      0.79      0.58        68
+    DISASTER       0.80      0.90      0.84       224
+    NO_EVENT       0.89      0.72      0.80       642
+    POLITICS       0.52      0.70      0.60       133
+
+    accuracy                           0.76      1067
+   macro avg       0.67      0.78      0.71      1067
+weighted avg       0.80      0.76      0.77      1067
+
+--- Metoda: SBERT_mini | Model: Random Forest ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.53      0.41      0.46        68
+    DISASTER       0.76      0.80      0.78       224
+    NO_EVENT       0.77      0.84      0.80       642
+    POLITICS       0.59      0.33      0.43       133
+
+    accuracy                           0.74      1067
+   macro avg       0.66      0.60      0.62      1067
+weighted avg       0.73      0.74      0.73      1067
