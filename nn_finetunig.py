@@ -9,7 +9,9 @@ from sklearn.metrics import (
     confusion_matrix, classification_report
 )
 from transformers import DistilBertTokenizer, TFDistilBertForSequenceClassification
-from tensorflow.keras.callbacks import EarlyStopping
+from tf_keras.optimizers import Adam
+from tf_keras.losses import SparseCategoricalCrossentropy
+from tf_keras.callbacks import EarlyStopping
 
 from data_processing import load_data
 from utils.nn_report import report
