@@ -1,0 +1,420 @@
+MODEL                     | ACCURACY   | PRECISION   | RECALL F1   | MACRO F1
+--------------------------------------------------
+DistilBERT (T=0.20)       | 0.7898     | 0.7618      | 0.7123      | 0.7310
+DistilBERT (T=0.15)       | 0.7882     | 0.7671      | 0.6994      | 0.7246
+DistilBERT (T=0.25)       | 0.7877     | 0.7526      | 0.7202      | 0.7321
+DistilBERT (T=0.35)       | 0.7875     | 0.7449      | 0.7348      | 0.7373
+DistilBERT (T=0.40)       | 0.7873     | 0.7414      | 0.7413      | 0.7393
+DistilBERT (T=0.45)       | 0.7868     | 0.7385      | 0.7469      | 0.7409
+DistilBERT (T=0.10)       | 0.7866     | 0.7772      | 0.6824      | 0.7165
+DistilBERT (T=0.30)       | 0.7866     | 0.7469      | 0.7270      | 0.7338
+DistilBERT (T=0.55)       | 0.7859     | 0.7326      | 0.7564      | 0.7425
+DistilBERT (T=0.50)       | 0.7849     | 0.7332      | 0.7512      | 0.7402
+DistilBERT (T=0.60)       | 0.7815     | 0.7256      | 0.7581      | 0.7395
+DistilBERT (T=0.65)       | 0.7803     | 0.7228      | 0.7628      | 0.7402
+DistilBERT (T=0.70)       | 0.7777     | 0.7182      | 0.7678      | 0.7396
+DistilBERT (T=0.75)       | 0.7749     | 0.7137      | 0.7723      | 0.7387
+DistilBERT (T=0.80)       | 0.7723     | 0.7097      | 0.7764      | 0.7377
+DistilBERT (T=0.85)       | 0.7693     | 0.7059      | 0.7817      | 0.7371
+DistilBERT (T=0.90)       | 0.7653     | 0.7004      | 0.7909      | 0.7362
+DistilBERT (T=0.95)       | 0.7499     | 0.6850      | 0.7953      | 0.7254
+
+============================================================
+SZCZEGÓŁOWE RAPORTY KLASYFIKACJI
+============================================================
+
+Model: DistilBERT (T=0.20) ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.75      0.64      0.69       632
+    DISASTER       0.79      0.83      0.81       696
+    NO_EVENT       0.81      0.88      0.85      3501
+    POLITICS       0.70      0.49      0.58       893
+
+    accuracy                           0.79      5722
+   macro avg       0.76      0.71      0.73      5722
+weighted avg       0.78      0.79      0.78      5722
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS       406         8       196        22
+DISASTER         3       577       111         5
+NO_EVENT       111       131      3095       164
+POLITICS        19        19       414       441
+
+------------------------------------------------------------
+
+Model: DistilBERT (T=0.15) ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.75      0.62      0.68       632
+    DISASTER       0.79      0.81      0.80       696
+    NO_EVENT       0.80      0.89      0.85      3501
+    POLITICS       0.72      0.47      0.57       893
+
+    accuracy                           0.79      5722
+   macro avg       0.77      0.70      0.72      5722
+weighted avg       0.78      0.79      0.78      5722
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS       391         8       212        21
+DISASTER         3       565       123         5
+NO_EVENT       105       123      3132       141
+POLITICS        19        15       437       422
+
+------------------------------------------------------------
+
+Model: DistilBERT (T=0.25) ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.73      0.66      0.69       632
+    DISASTER       0.78      0.84      0.81       696
+    NO_EVENT       0.82      0.87      0.84      3501
+    POLITICS       0.69      0.51      0.58       893
+
+    accuracy                           0.79      5722
+   macro avg       0.75      0.72      0.73      5722
+weighted avg       0.78      0.79      0.78      5722
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS       415         8       187        22
+DISASTER         3       587       100         6
+NO_EVENT       132       139      3050       180
+POLITICS        19        20       399       455
+
+------------------------------------------------------------
+
+Model: DistilBERT (T=0.35) ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.72      0.68      0.70       632
+    DISASTER       0.76      0.86      0.81       696
+    NO_EVENT       0.83      0.85      0.84      3501
+    POLITICS       0.67      0.54      0.60       893
+
+    accuracy                           0.79      5722
+   macro avg       0.74      0.73      0.74      5722
+weighted avg       0.78      0.79      0.78      5722
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS       428         9       173        22
+DISASTER         3       601        86         6
+NO_EVENT       144       155      2991       211
+POLITICS        21        22       364       486
+
+------------------------------------------------------------
+
+Model: DistilBERT (T=0.40) ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.71      0.69      0.70       632
+    DISASTER       0.76      0.87      0.81       696
+    NO_EVENT       0.83      0.85      0.84      3501
+    POLITICS       0.66      0.56      0.61       893
+
+    accuracy                           0.79      5722
+   macro avg       0.74      0.74      0.74      5722
+weighted avg       0.78      0.79      0.78      5722
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS       434         9       167        22
+DISASTER         3       604        80         9
+NO_EVENT       150       163      2963       225
+POLITICS        21        24       344       504
+
+------------------------------------------------------------
+
+Model: DistilBERT (T=0.45) ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.71      0.69      0.70       632
+    DISASTER       0.75      0.88      0.81       696
+    NO_EVENT       0.84      0.84      0.84      3501
+    POLITICS       0.65      0.58      0.61       893
+
+    accuracy                           0.79      5722
+   macro avg       0.74      0.75      0.74      5722
+weighted avg       0.78      0.79      0.78      5722
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS       438         9       162        23
+DISASTER         3       611        73         9
+NO_EVENT       154       168      2937       242
+POLITICS        21        25       331       516
+
+------------------------------------------------------------
+
+Model: DistilBERT (T=0.10) ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.76      0.59      0.67       632
+    DISASTER       0.82      0.79      0.80       696
+    NO_EVENT       0.79      0.91      0.85      3501
+    POLITICS       0.74      0.44      0.55       893
+
+    accuracy                           0.79      5722
+   macro avg       0.78      0.68      0.72      5722
+weighted avg       0.78      0.79      0.77      5722
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS       373         6       232        21
+DISASTER         2       550       140         4
+NO_EVENT        95       105      3186       115
+POLITICS        19        11       471       392
+
+------------------------------------------------------------
+
+Model: DistilBERT (T=0.30) ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.72      0.67      0.69       632
+    DISASTER       0.77      0.85      0.81       696
+    NO_EVENT       0.82      0.86      0.84      3501
+    POLITICS       0.67      0.52      0.59       893
+
+    accuracy                           0.79      5722
+   macro avg       0.75      0.73      0.73      5722
+weighted avg       0.78      0.79      0.78      5722
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS       422         9       179        22
+DISASTER         3       595        92         6
+NO_EVENT       138       146      3016       201
+POLITICS        21        21       383       468
+
+------------------------------------------------------------
+
+Model: DistilBERT (T=0.55) ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.70      0.71      0.70       632
+    DISASTER       0.74      0.89      0.80       696
+    NO_EVENT       0.85      0.83      0.84      3501
+    POLITICS       0.65      0.61      0.63       893
+
+    accuracy                           0.79      5722
+   macro avg       0.73      0.76      0.74      5722
+weighted avg       0.79      0.79      0.79      5722
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS       447        11       149        25
+DISASTER         3       617        65        11
+NO_EVENT       171       184      2892       254
+POLITICS        22        26       304       541
+
+------------------------------------------------------------
+
+Model: DistilBERT (T=0.50) ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.70      0.70      0.70       632
+    DISASTER       0.74      0.88      0.80       696
+    NO_EVENT       0.84      0.83      0.84      3501
+    POLITICS       0.65      0.59      0.62       893
+
+    accuracy                           0.78      5722
+   macro avg       0.73      0.75      0.74      5722
+weighted avg       0.78      0.78      0.78      5722
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS       445        10       152        25
+DISASTER         3       615        68        10
+NO_EVENT       163       181      2907       250
+POLITICS        22        26       321       524
+
+------------------------------------------------------------
+
+Model: DistilBERT (T=0.60) ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.68      0.71      0.70       632
+    DISASTER       0.73      0.89      0.80       696
+    NO_EVENT       0.85      0.81      0.83      3501
+    POLITICS       0.65      0.62      0.63       893
+
+    accuracy                           0.78      5722
+   macro avg       0.73      0.76      0.74      5722
+weighted avg       0.78      0.78      0.78      5722
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS       449        11       146        26
+DISASTER         3       618        64        11
+NO_EVENT       185       197      2852       267
+POLITICS        22        26       292       553
+
+------------------------------------------------------------
+
+Model: DistilBERT (T=0.65) ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.68      0.72      0.70       632
+    DISASTER       0.72      0.89      0.80       696
+    NO_EVENT       0.85      0.81      0.83      3501
+    POLITICS       0.64      0.63      0.64       893
+
+    accuracy                           0.78      5722
+   macro avg       0.72      0.76      0.74      5722
+weighted avg       0.79      0.78      0.78      5722
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS       456        11       138        27
+DISASTER         3       621        61        11
+NO_EVENT       193       204      2825       279
+POLITICS        22        26       282       563
+
+------------------------------------------------------------
+
+Model: DistilBERT (T=0.70) ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.67      0.74      0.70       632
+    DISASTER       0.71      0.90      0.79       696
+    NO_EVENT       0.86      0.80      0.83      3501
+    POLITICS       0.63      0.64      0.64       893
+
+    accuracy                           0.78      5722
+   macro avg       0.72      0.77      0.74      5722
+weighted avg       0.79      0.78      0.78      5722
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS       465        11       129        27
+DISASTER         3       624        56        13
+NO_EVENT       201       216      2787       297
+POLITICS        22        28       269       574
+
+------------------------------------------------------------
+
+Model: DistilBERT (T=0.75) ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.66      0.74      0.70       632
+    DISASTER       0.70      0.90      0.79       696
+    NO_EVENT       0.87      0.78      0.82      3501
+    POLITICS       0.63      0.66      0.64       893
+
+    accuracy                           0.77      5722
+   macro avg       0.71      0.77      0.74      5722
+weighted avg       0.79      0.77      0.78      5722
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS       469        12       124        27
+DISASTER         3       626        54        13
+NO_EVENT       212       229      2747       313
+POLITICS        22        29       250       592
+
+------------------------------------------------------------
+
+Model: DistilBERT (T=0.80) ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.66      0.75      0.70       632
+    DISASTER       0.69      0.91      0.79       696
+    NO_EVENT       0.87      0.77      0.82      3501
+    POLITICS       0.62      0.68      0.65       893
+
+    accuracy                           0.77      5722
+   macro avg       0.71      0.78      0.74      5722
+weighted avg       0.79      0.77      0.78      5722
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS       473        13       119        27
+DISASTER         3       631        49        13
+NO_EVENT       223       237      2711       330
+POLITICS        22        30       237       604
+
+------------------------------------------------------------
+
+Model: DistilBERT (T=0.85) ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.65      0.76      0.70       632
+    DISASTER       0.69      0.91      0.78       696
+    NO_EVENT       0.88      0.76      0.81      3501
+    POLITICS       0.61      0.69      0.65       893
+
+    accuracy                           0.77      5722
+   macro avg       0.71      0.78      0.74      5722
+weighted avg       0.79      0.77      0.77      5722
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS       479        13       113        27
+DISASTER         3       636        44        13
+NO_EVENT       233       249      2668       351
+POLITICS        22        30       222       619
+
+------------------------------------------------------------
+
+Model: DistilBERT (T=0.90) ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.64      0.78      0.70       632
+    DISASTER       0.67      0.92      0.78       696
+    NO_EVENT       0.89      0.74      0.81      3501
+    POLITICS       0.60      0.72      0.66       893
+
+    accuracy                           0.77      5722
+   macro avg       0.70      0.79      0.74      5722
+weighted avg       0.79      0.77      0.77      5722
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS       490        13       102        27
+DISASTER         3       643        37        13
+NO_EVENT       255       263      2602       381
+POLITICS        23        35       191       644
+
+------------------------------------------------------------
+
+Model: DistilBERT (T=0.95) ---
+              precision    recall  f1-score   support
+
+    BUSINESS       0.61      0.80      0.69       632
+    DISASTER       0.65      0.93      0.76       696
+    NO_EVENT       0.90      0.71      0.79      3501
+    POLITICS       0.58      0.75      0.66       893
+
+    accuracy                           0.75      5722
+   macro avg       0.68      0.80      0.73      5722
+weighted avg       0.79      0.75      0.76      5722
+
+
+MACIERZ POMYŁEK (Wiersze=Prawda, Kolumny=Przewidywanie):
+          BUSINESS  DISASTER  NO_EVENT  POLITICS
+BUSINESS       504        14        85        29
+DISASTER         3       647        33        13
+NO_EVENT       294       299      2472       436
+POLITICS        25        37       163       668
+
+------------------------------------------------------------

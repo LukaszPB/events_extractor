@@ -1,0 +1,2702 @@
+[
+    {
+        "sentence": "Since mortgages complaints were recorded in December 2011, 77,622 total have been added to CFPB's database.",
+        "category": "BUSINESS",
+        "who": "mortgages complaints",
+        "trigger": "added",
+        "what": "77,622 total",
+        "where": "CFPB's database",
+        "when": "December 2011"
+    },
+    {
+        "sentence": "This follows increases from other suppliers including Powergen and EDF Energy, with both having risen their prices by 7 to 12%.",
+        "category": "BUSINESS",
+        "who": "Powergen and EDF Energy",
+        "trigger": "risen",
+        "what": "their prices",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "Pakistani army officials risked tautening relations between the two countries again on Thursday as they announced they would consider cutting ties with Washington, D.C. if the U.S. mounted another unannounced raid on their soil, and said they would be expelling U.S. military personnel in retaliation.",
+        "category": "POLITICS",
+        "who": "Pakistani army officials",
+        "trigger": "announced",
+        "what": "cutting ties with Washington, D.C.",
+        "where": "Washington, D.C.",
+        "when": "on Thursday"
+    },
+    {
+        "sentence": "In total, 498 of the 500 U.S. companies represented in the S&P 500 index fell including all 30 Dow stocks.",
+        "category": "BUSINESS",
+        "who": "498 of the 500 U.S. companies",
+        "trigger": "fell",
+        "what": "all 30 Dow stocks",
+        "where": "S&P 500 index",
+        "when": ""
+    },
+    {
+        "sentence": "Seven finance department officials have been arrested on negligence and charges of negligence are to be laid also against seven others.",
+        "category": "POLITICS",
+        "who": "finance department officials",
+        "trigger": "arrested",
+        "what": "Seven finance department officials",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "The Constitutional Council - responsible for sorting out disputes in presidential elections - finds itself in charge, to find a solution to the disagreements, and proclaim the definitive presidential election results.'",
+        "category": "POLITICS",
+        "who": "The Constitutional Council",
+        "trigger": "proclaim",
+        "what": "definitive presidential election results",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "The company believes the job reductions will save it 97 million euros.",
+        "category": "BUSINESS",
+        "who": "The company",
+        "trigger": "save",
+        "what": "97 million euros",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "The Treasurer Peter Costello, Foreign Affairs minister Alexander Downer, and Health minister Tony Abbott remain unchanged.",
+        "category": "POLITICS",
+        "who": "Peter Costello, Alexander Downer, and Tony Abbott",
+        "trigger": "remain unchanged",
+        "what": "",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "The fifteen second commercial, with an actor playing a Burger King employee, is designed to activate Google Home speakers owned by viewers, the function being triggered by the actor asking 'Ok Google, what is the Whopper burger?'.",
+        "category": "BUSINESS",
+        "who": "an actor",
+        "trigger": "activate",
+        "what": "Google Home speakers",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "He asked the two presidential candidates along with leaders from both parties of Congress to join him for a conference on Thursday.",
+        "category": "POLITICS",
+        "who": "He",
+        "trigger": "asked",
+        "what": "two presidential candidates along with leaders",
+        "where": "conference",
+        "when": "on Thursday"
+    },
+    {
+        "sentence": "Tuesday, May 29, 2007 Indonesia budget airline Adam Air has reached an agreement with United States marine salvage firm Phoenix International to retrieve the cockpit voice recorder and flight data recorder (or 'black boxes') from Adam Air Flight 574, a Boeing 737 aircraft that crashed into the sea on New Year's Day near Sulawesi, Indonesia during a scheduled domestic passenger flight, killing all 102 on board.",
+        "category": "DISASTER",
+        "who": "Adam Air",
+        "trigger": "reached an agreement",
+        "what": "to retrieve the cockpit voice recorder and flight data recorder",
+        "where": "Sulawesi, Indonesia",
+        "when": "Tuesday, May 29, 2007"
+    },
+    {
+        "sentence": "If you go against city code, and you try to do the most rooms with a minimal amount of parking, again, I will sue you.'",
+        "category": "BUSINESS",
+        "who": "I",
+        "trigger": "sue",
+        "what": "you",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "The US Justice Department, as well as Louisiana, Mississippi, and Alabama, are all investigating what contributed to the disaster.",
+        "category": "BUSINESS",
+        "who": "US Justice Department, as well as Louisiana, Mississippi, and Alabama",
+        "trigger": "investigating",
+        "what": "what contributed to the disaster",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "Saturday, February 7, 2009 Bushfires across the Australian state of Victoria have killed at least 108 people and have destroyed dozens of homes.",
+        "category": "DISASTER",
+        "who": "Bushfires",
+        "trigger": "killed",
+        "what": "at least 108 people",
+        "where": "Australian state of Victoria",
+        "when": "Saturday, February 7, 2009"
+    },
+    {
+        "sentence": "Shares of other grocery-selling chains like Kroger, Target, Sprouts Farmers and Costco experienced a dip after the announcement.",
+        "category": "BUSINESS",
+        "who": "Shares of other grocery-selling chains",
+        "trigger": "experienced",
+        "what": "a dip",
+        "where": "",
+        "when": "after the announcement"
+    },
+    {
+        "sentence": "Sunday, July 16, 2006  Twenty Lebanese civilians from the village of Marwaheen died when the van they were travelling in was hit by an Israeli missile Saturday.",
+        "category": "DISASTER",
+        "who": "Israeli missile",
+        "trigger": "hit",
+        "what": "the van",
+        "where": "village of Marwaheen",
+        "when": "Saturday"
+    },
+    {
+        "sentence": "Australia's Reserve Bank of Australia (RBA) maintained its position that interest rates are not likely to rise until 2024.",
+        "category": "BUSINESS",
+        "who": "Reserve Bank of Australia (RBA)",
+        "trigger": "maintained",
+        "what": "its position",
+        "where": "Australia",
+        "when": "until 2024"
+    },
+    {
+        "sentence": "In April 1990 a compartment opened during takeoff from Deadnight; this caused separation of an engine cover which proceeded to strike and damage the horizontal stabilizer.",
+        "category": "DISASTER",
+        "who": "engine cover",
+        "trigger": "damage",
+        "what": "horizontal stabilizer",
+        "where": "Deadnight",
+        "when": "In April 1990"
+    },
+    {
+        "sentence": "They had failed to meet a January 4 deadline on postponed debt payments, and talks with creditors failed.",
+        "category": "BUSINESS",
+        "who": "They",
+        "trigger": "failed to meet",
+        "what": "deadline on postponed debt payments",
+        "where": "",
+        "when": "January 4"
+    },
+    {
+        "sentence": "The Democratic Party of Iranian Kurdistan is the oldest Kurdish political party in all four parts of Kurdistan and the most experienced political organisation in Iranian Kurdistan; we have in the past waged a guerrilla war against the Islamic Republic from 1979 to 1997, and although we are not rejecting armed struggle as a method, we think that there are other opportunities that are less costly in terms of human lives that are worth pursuing.",
+        "category": "POLITICS",
+        "who": "Democratic Party of Iranian Kurdistan",
+        "trigger": "waged",
+        "what": "guerrilla war",
+        "where": "Iranian Kurdistan",
+        "when": "from 1979 to 1997"
+    },
+    {
+        "sentence": "Australia currently exports to the USA, Japan, South Korea, Spain, France, the United Kingdom, Sweden, Germany, Belgium and Finland.",
+        "category": "BUSINESS",
+        "who": "Australia",
+        "trigger": "exports",
+        "what": "",
+        "where": "USA, Japan, South Korea, Spain, France, United Kingdom, Sweden, Germany, Belgium and Finland",
+        "when": "currently"
+    },
+    {
+        "sentence": "The funding was part of a US$530 million (NZ$635 million) package announced at yesterday's Pacific Energy Summit in Auckland involving New Zealand and the European Union, Australia, the Asian Development Bank, the European Investment Bank, the Japan International Cooperation Agency, the World Bank Group, and the United Arab Emirates.",
+        "category": "BUSINESS",
+        "who": "New Zealand and the European Union, Australia, the Asian Development Bank",
+        "trigger": "announced",
+        "what": "US$530 million package",
+        "where": "Auckland",
+        "when": "yesterday"
+    },
+    {
+        "sentence": "That is when the grace period of Nakheel's bond ends.",
+        "category": "BUSINESS",
+        "who": "grace period of Nakheel's bond",
+        "trigger": "ends",
+        "what": "",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "A spokesperson for the police said, '[w]e were called to a fire at an address in Ely Road [on Saturday] evening.",
+        "category": "DISASTER",
+        "who": "police",
+        "trigger": "called",
+        "what": "fire",
+        "where": "Ely Road",
+        "when": "Saturday evening"
+    },
+    {
+        "sentence": "That's why we've insisted on a public interest monitor.",
+        "category": "POLITICS",
+        "who": "we",
+        "trigger": "insisted on",
+        "what": "public interest monitor",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "Tuesday, June 23, 2009 Authorities in the Mexican state of Sonora arrested 7 state officials, from the state finance department, yesterday; and charged them with negligent homicide for the deaths of 47 children in a fire at a daycare centre that occurred earlier this month.",
+        "category": "DISASTER",
+        "who": "Authorities in the Mexican state of Sonora",
+        "trigger": "arrested",
+        "what": "7 state officials",
+        "where": "Mexican state of Sonora",
+        "when": "yesterday"
+    },
+    {
+        "sentence": "Civil Defense Authority director General Suleiman al-Amr, in remarks to al-Ikhbariya television, said 'All those who were wounded and the dead have been taken to hospital.",
+        "category": "DISASTER",
+        "who": "All those who were wounded and the dead",
+        "trigger": "taken",
+        "what": "",
+        "where": "hospital",
+        "when": ""
+    },
+    {
+        "sentence": "Federal regulatory officials were criticized for allegedly taking bribes and not thoroughly inspecting the oil rig.",
+        "category": "BUSINESS",
+        "who": "Federal regulatory officials",
+        "trigger": "criticized",
+        "what": "taking bribes",
+        "where": "oil rig",
+        "when": ""
+    },
+    {
+        "sentence": "A few days ago, being annoyed by the fact that the seamen prevented the strike breaking in a cruise ship, the bourgeoisie and its journalists accused the seamen of anti-patriotism for attacking tourism which is ‘the only thing we have left’.",
+        "category": "POLITICS",
+        "who": "the bourgeoisie and its journalists",
+        "trigger": "accused",
+        "what": "seamen",
+        "where": "cruise ship",
+        "when": "A few days ago"
+    },
+    {
+        "sentence": "Three deaths were also caused by a traffic-related incident in Minnesota.",
+        "category": "DISASTER",
+        "who": "traffic-related incident",
+        "trigger": "caused",
+        "what": "Three deaths",
+        "where": "Minnesota",
+        "when": ""
+    },
+    {
+        "sentence": "The Liberal party had submitted the recording as evidence that Harper was aware of the Cadman insurance offer.",
+        "category": "POLITICS",
+        "who": "Liberal party",
+        "trigger": "submitted",
+        "what": "recording",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "Meanwhile, members of the Tunisian National Organisation for Lawyers have begun a hunger strike in protest against the law of the Supreme Bar Institute that was endorsed by the Tunisian parliament.",
+        "category": "POLITICS",
+        "who": "members of the Tunisian National Organisation for Lawyers",
+        "trigger": "begun",
+        "what": "hunger strike",
+        "where": "",
+        "when": "Meanwhile"
+    },
+    {
+        "sentence": "Since then, international digital music sales have climbed steadily, exactly in line with the total sales of iPods and iPhones.'",
+        "category": "BUSINESS",
+        "who": "international digital music sales",
+        "trigger": "climbed",
+        "what": "",
+        "where": "",
+        "when": "Since then"
+    },
+    {
+        "sentence": "Adopting the moniker of the maligned 'Internet pirates', the party argues for drastically limiting the scope and enforcement of copyright law, abolishing patent law, and protecting privacy in what it sees as a 'control and surveillance society'.",
+        "category": "POLITICS",
+        "who": "the party",
+        "trigger": "argues for",
+        "what": "limiting the scope and enforcement of copyright law",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "Sunday, July 6, 2008 At least eight construction workers have died and thirteen more are injured after a building collapsed during construction in Qiuzhigou Village, a suburb of China's Wuhan City.",
+        "category": "DISASTER",
+        "who": "building",
+        "trigger": "collapsed",
+        "what": "at least eight construction workers",
+        "where": "Qiuzhigou Village",
+        "when": "Sunday, July 6, 2008"
+    },
+    {
+        "sentence": "Albania reported a previous attack in July.",
+        "category": "DISASTER",
+        "who": "Albania",
+        "trigger": "reported",
+        "what": "previous attack",
+        "where": "",
+        "when": "July"
+    },
+    {
+        "sentence": "Icelandic Prime Minister Jóhanna Sigurðardóttir and her coalition government threatened to resign if the bill was not passed by parliament.",
+        "category": "POLITICS",
+        "who": "Jóhanna Sigurðardóttir and her coalition government",
+        "trigger": "threatened",
+        "what": "to resign",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "The Federal Reserve's half-point rate cut has already caused a plunge in the world dollar index to a fifteen-year low, reaching the weakest level ever against the Euro at just under $1.40.",
+        "category": "BUSINESS",
+        "who": "Federal Reserve's half-point rate cut",
+        "trigger": "caused",
+        "what": "plunge in the world dollar index",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "Sunday, May 28, 2006\n \nActivists from Tunisia's only independent human-rights body have been assaulted by the police in that country, according to reports.",
+        "category": "DISASTER",
+        "who": "police",
+        "trigger": "assaulted",
+        "what": "Activists",
+        "where": "Tunisia",
+        "when": "Sunday, May 28, 2006"
+    },
+    {
+        "sentence": "Les Thomas said the 13 were victims of a government 'scare campaign' and 'media demonisation' and were being held in solitary confinement in Barwon's high security Acacia Unit, despite not being convicted of any crime.",
+        "category": "POLITICS",
+        "who": "government",
+        "trigger": "held",
+        "what": "the 13",
+        "where": "Barwon's high security Acacia Unit",
+        "when": ""
+    },
+    {
+        "sentence": "Some reports had said al-Zarqawi's wife and daughter died.",
+        "category": "DISASTER",
+        "who": "al-Zarqawi's wife and daughter",
+        "trigger": "died",
+        "what": "",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "The strike was officially launched at 11 a.m. EDT (UTC-4) today.",
+        "category": "BUSINESS",
+        "who": "The strike",
+        "trigger": "launched",
+        "what": "",
+        "where": "",
+        "when": "11 a.m. EDT (UTC-4) today"
+    },
+    {
+        "sentence": "The December 2005 study was seen at the time as a major boost to the credibility of Wikipedia.",
+        "category": "BUSINESS",
+        "who": "December 2005 study",
+        "trigger": "seen",
+        "what": "major boost to the credibility of Wikipedia",
+        "where": "",
+        "when": "December 2005"
+    },
+    {
+        "sentence": "Saturday, October 11, 2008 Relations between Iceland and the United Kingdom are deteriorating after the two nations fell out over the current financial crisis.",
+        "category": "POLITICS",
+        "who": "Relations between Iceland and the United Kingdom",
+        "trigger": "deteriorating",
+        "what": "",
+        "where": "Iceland and the United Kingdom",
+        "when": "Saturday, October 11, 2008"
+    },
+    {
+        "sentence": "The Pacific Tsunami Warning Center (PTWC) had earlier issued a tsunami warning for Tonga, Fiji, American Samoa, Samoa, Niue and the Kermadec Islands, which was later canceled.",
+        "category": "DISASTER",
+        "who": "Pacific Tsunami Warning Center (PTWC)",
+        "trigger": "issued",
+        "what": "tsunami warning",
+        "where": "Tonga, Fiji, American Samoa, Samoa, Niue and the Kermadec Islands",
+        "when": "earlier"
+    },
+    {
+        "sentence": "The United States contests this.",
+        "category": "POLITICS",
+        "who": "The United States",
+        "trigger": "contests",
+        "what": "this",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "Noguchi then set up the investment unit Capitalista Co., which merged with HS Securities.",
+        "category": "BUSINESS",
+        "who": "Noguchi",
+        "trigger": "set up",
+        "what": "investment unit Capitalista Co.",
+        "where": "",
+        "when": "then"
+    },
+    {
+        "sentence": "Chula Vista has moved that responsibility to an upfront obligation upon lenders.",
+        "category": "BUSINESS",
+        "who": "Chula Vista",
+        "trigger": "moved",
+        "what": "responsibility",
+        "where": "Chula Vista",
+        "when": ""
+    },
+    {
+        "sentence": "The USAF and Boeing have signed an interim agreement to protect the Air Force's interests.",
+        "category": "POLITICS",
+        "who": "USAF and Boeing",
+        "trigger": "signed",
+        "what": "interim agreement",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "Malaysia has now sent 25 military officers ahead of its 500 strong commitment of military and police personnel; New Zealand has committed two C-130s, and an infantry company is on standby pending negotiations over rules of engagement; Portugal's 120-strong commitment has commenced preparations, but is not expected to arrive for a matter of weeks.",
+        "category": "DISASTER",
+        "who": "Malaysia",
+        "trigger": "sent",
+        "what": "25 military officers",
+        "where": "",
+        "when": "now"
+    },
+    {
+        "sentence": "Saturday, April 2, 2005  Palestinian Authority chairman Mahmoud Abbas has ordered hundreds of Palestinian security officers to retire as part of a plan to reform his forces and end continuing lawlessness, a Palestinian official told Reuters.",
+        "category": "POLITICS",
+        "who": "Mahmoud Abbas",
+        "trigger": "ordered",
+        "what": "hundreds of Palestinian security officers to retire",
+        "where": "",
+        "when": "Saturday, April 2, 2005"
+    },
+    {
+        "sentence": "British Prime Minister David Cameron said that the papal election was 'a momentous day for the 1.2 billion Catholics around the world'.",
+        "category": "POLITICS",
+        "who": "David Cameron",
+        "trigger": "said",
+        "what": "papal election was a momentous day",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "The party is angry that amendments they proposed were not considered when the bill was passed.",
+        "category": "POLITICS",
+        "who": "The party",
+        "trigger": "proposed",
+        "what": "amendments",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "The bottom line is that there is increasing antagonism between the different imperialist centres and the Greek government is trying to play the game with all of them.",
+        "category": "POLITICS",
+        "who": "Greek government",
+        "trigger": "trying to play",
+        "what": "the game",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "It is the first channel ever to be broadcast entirely through the international auxiliary language Esperanto, and was launched at midnight Brazilian time on Saturday night.",
+        "category": "BUSINESS",
+        "who": "channel",
+        "trigger": "launched",
+        "what": "",
+        "where": "",
+        "when": "midnight Brazilian time on Saturday night"
+    },
+    {
+        "sentence": "Adidas is offering $59 a share.",
+        "category": "BUSINESS",
+        "who": "Adidas",
+        "trigger": "offering",
+        "what": "$59 a share",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "The news was also welcomed from the railway union RMT, who had been protesting to the government to go further for a new north to south high speed rail link.",
+        "category": "POLITICS",
+        "who": "railway union RMT",
+        "trigger": "protesting",
+        "what": "for a new north to south high speed rail link",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "The Ukrainian government has allocated UAH 70 million (about US$ 13.865 million) for work against the effects of the blast.",
+        "category": "POLITICS",
+        "who": "Ukrainian government",
+        "trigger": "allocated",
+        "what": "UAH 70 million",
+        "where": "Ukraine",
+        "when": ""
+    },
+    {
+        "sentence": "Furthermore, in a country where the economic output is only $425 per person, the average bribe cost nearly $160.",
+        "category": "BUSINESS",
+        "who": "average bribe",
+        "trigger": "cost",
+        "what": "nearly $160",
+        "where": "in a country",
+        "when": ""
+    },
+    {
+        "sentence": "The restructuring announcement also includes the proposed sale or closure of 3 plants.",
+        "category": "BUSINESS",
+        "who": "restructuring announcement",
+        "trigger": "includes",
+        "what": "sale or closure of 3 plants",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "The US$1 million offer could be given to NBC in exchange for allowing the senator to participate in the 2-hour debate, by either Chase purchasing a million dollars worth of advertising space on their network, donating the million to NBC's favorite charity, or giving the million dollars to NBC's parent company, General Electric.",
+        "category": "BUSINESS",
+        "who": "Chase",
+        "trigger": "purchasing",
+        "what": "advertising space",
+        "where": "their network",
+        "when": ""
+    },
+    {
+        "sentence": "Contract staff at the Sellafield nuclear recycling facility in Cumbria walked out this morning.",
+        "category": "POLITICS",
+        "who": "Contract staff",
+        "trigger": "walked out",
+        "what": "",
+        "where": "Sellafield nuclear recycling facility in Cumbria",
+        "when": "this morning"
+    },
+    {
+        "sentence": "BA already holds a 13.15% stake in Iberia, while Iberia have a 2.99% holding in BA.",
+        "category": "BUSINESS",
+        "who": "BA",
+        "trigger": "holds",
+        "what": "13.15% stake in Iberia",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "Thousands of angered Afghanis took to the streets in the Afghan city of Mihtarlam, chanting 'death to Americans'.",
+        "category": "POLITICS",
+        "who": "Thousands of angered Afghanis",
+        "trigger": "took to the streets",
+        "what": "",
+        "where": "Afghan city of Mihtarlam",
+        "when": ""
+    },
+    {
+        "sentence": "A report published on the USA Today website said election workers in some parts of Florida had resorted to using paper ballots when their electronic voting machines failed to work.",
+        "category": "POLITICS",
+        "who": "election workers",
+        "trigger": "resorted to using",
+        "what": "paper ballots",
+        "where": "some parts of Florida",
+        "when": ""
+    },
+    {
+        "sentence": "New Zealand Foreign Minister Murray McCully said that the abrogation of the constitution 'will merely compound the problems faced by ordinary Fijians'.",
+        "category": "POLITICS",
+        "who": "Murray McCully",
+        "trigger": "said",
+        "what": "abrogation of the constitution will merely compound the problems",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "We had plenty of warnings, I think, just the amount of destruction in the area is what caused our fatality count to get so high.",
+        "category": "DISASTER",
+        "who": "destruction",
+        "trigger": "caused",
+        "what": "fatality count",
+        "where": "in the area",
+        "when": ""
+    },
+    {
+        "sentence": "This is the case as the Eurozone's economy, which also shrunk by 0.2% in the second quarter of this year.",
+        "category": "BUSINESS",
+        "who": "Eurozone's economy",
+        "trigger": "shrunk",
+        "what": "by 0.2%",
+        "where": "",
+        "when": "second quarter of this year"
+    },
+    {
+        "sentence": "Prime Minister John Howard rejects suggestions the Government acted in undue haste by pushing a range of striking new laws through parliament before Christmas, despite public outcry over inadequate scrutiny and the gagging of parliamentary debate on many of the bills.",
+        "category": "POLITICS",
+        "who": "John Howard",
+        "trigger": "rejects",
+        "what": "suggestions",
+        "where": "parliament",
+        "when": "before Christmas"
+    },
+    {
+        "sentence": "Quarter inflation, however, was rising: 3% through six months; 2.3% over 12 months.",
+        "category": "BUSINESS",
+        "who": "Quarter inflation",
+        "trigger": "rising",
+        "what": "3%",
+        "where": "",
+        "when": "through six months"
+    },
+    {
+        "sentence": "Kinnane refused to recognise the TSSA as representing the Direct Holidays staff; without union representation, Direct Holidays staff 'were not in any position to consult with senior managers who had their own hidden agenda and proved this when they closed the consultation down when staff said there were other matters that needed to be discussed.'",
+        "category": "BUSINESS",
+        "who": "Kinnane",
+        "trigger": "refused to recognise",
+        "what": "TSSA",
+        "where": "Direct Holidays",
+        "when": ""
+    },
+    {
+        "sentence": "According to Economic Planning Secretary Arsenio Balisacan, strong domestic demand from the services sector and spending from money remitted by expatriate Filipinos helped boost the nation's economy despite the ongoing global economic crisis.",
+        "category": "BUSINESS",
+        "who": "strong domestic demand",
+        "trigger": "helped boost",
+        "what": "nation's economy",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "Twelve civilians were killed in the incident, while 25 were injured.",
+        "category": "DISASTER",
+        "who": "incident",
+        "trigger": "killed",
+        "what": "Twelve civilians",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "Thursday, February 16, 2006 Authorities across Europe have issued restrictions on commercial poultry farms, following the outbreak of bird flu in eight previously unaffected nations.",
+        "category": "DISASTER",
+        "who": "Authorities across Europe",
+        "trigger": "issued",
+        "what": "restrictions on commercial poultry farms",
+        "where": "Europe",
+        "when": "Thursday, February 16, 2006"
+    },
+    {
+        "sentence": "Peter Kelly, Mayor of Halifax toured the devastation by air.",
+        "category": "DISASTER",
+        "who": "Peter Kelly",
+        "trigger": "toured",
+        "what": "devastation",
+        "where": "Halifax",
+        "when": ""
+    },
+    {
+        "sentence": "US travellers through the main Toronto hub more than doubled, indicating the increase in foreign air traffic to and through Canadian airports.",
+        "category": "BUSINESS",
+        "who": "US travellers",
+        "trigger": "doubled",
+        "what": "",
+        "where": "Toronto hub",
+        "when": ""
+    },
+    {
+        "sentence": "Some are also considering taking the case to the New York State Supreme Court to 'seek an injunction'\nand would go 'pro se, meaning I am going to present the case myself,' said Carnahan.",
+        "category": "BUSINESS",
+        "who": "Some",
+        "trigger": "considering taking",
+        "what": "the case",
+        "where": "New York State Supreme Court",
+        "when": ""
+    },
+    {
+        "sentence": "According to The Daily Telegraph, a repected Sydney newspaper, it has been established that 'No proper tests were done at the site before it became a training ground for hundreds of top-level rescuers in 2004',\n'Personnel were kept in the dark for up to a year about the asbestos before being told last week',\n'NSW public officials and a host of ministers may have been exposed',\n'Ambulance chief Greg Rochford and Mr Mullins have been at the site and must face a health clearance', and\n'The Dust Diseases Tribunal is conducting an investigation into the long-term impact the mass exposure could have on emergency services in NSW.'",
+        "category": "DISASTER",
+        "who": "Dust Diseases Tribunal",
+        "trigger": "conducting an investigation",
+        "what": "long-term impact",
+        "where": "NSW",
+        "when": ""
+    },
+    {
+        "sentence": "Tuesday, January 12, 2010 Witnesses in central Somalia have said that at least fourteen people were killed in a third day of fighting between Islamist groups.",
+        "category": "DISASTER",
+        "who": "Islamist groups",
+        "trigger": "killed",
+        "what": "at least fourteen people",
+        "where": "central Somalia",
+        "when": "Tuesday, January 12, 2010"
+    },
+    {
+        "sentence": "National Public Radio reported that some electronic voting machines in Texas had to be turned off when they improperly gave votes to candidates not selected by voters.",
+        "category": "POLITICS",
+        "who": "National Public Radio",
+        "trigger": "reported",
+        "what": "electronic voting machines had to be turned off",
+        "where": "Texas",
+        "when": ""
+    },
+    {
+        "sentence": "The bus caught fire in the accident.",
+        "category": "DISASTER",
+        "who": "The bus",
+        "trigger": "caught fire",
+        "what": "",
+        "where": "accident",
+        "when": ""
+    },
+    {
+        "sentence": "This is the first time a company has won both awards in the same year.",
+        "category": "BUSINESS",
+        "who": "a company",
+        "trigger": "won",
+        "what": "both awards",
+        "where": "",
+        "when": "the same year"
+    },
+    {
+        "sentence": "There have also been suggestions that reports of a fire at a National Gas Terminal may have contributed to the rising oil price.",
+        "category": "DISASTER",
+        "who": "fire at a National Gas Terminal",
+        "trigger": "contributed",
+        "what": "rising oil price",
+        "where": "National Gas Terminal",
+        "when": ""
+    },
+    {
+        "sentence": "The suicide bomb exploded at the entrance to a local government centre in the city of Baquba, which is one of the most deadly areas in Iraq.",
+        "category": "DISASTER",
+        "who": "suicide bomb",
+        "trigger": "exploded",
+        "what": "",
+        "where": "city of Baquba",
+        "when": ""
+    },
+    {
+        "sentence": "Some did attempt to challenge the iTunes store, but still none have succeeded.",
+        "category": "BUSINESS",
+        "who": "Some",
+        "trigger": "attempt to challenge",
+        "what": "iTunes store",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "Today is the day we grieve for our fellow New Zealanders killed in war.",
+        "category": "DISASTER",
+        "who": "we",
+        "trigger": "grieve",
+        "what": "New Zealanders",
+        "where": "war",
+        "when": "Today"
+    },
+    {
+        "sentence": "Tuesday, August 2, 2005 Atkins Nutritionals Inc, the multi-million dollar company that supplies dieters with low carb foods designed for the famous Atkins diet has filed for bankruptcy.",
+        "category": "BUSINESS",
+        "who": "Atkins Nutritionals Inc",
+        "trigger": "filed for bankruptcy",
+        "what": "",
+        "where": "",
+        "when": "Tuesday, August 2, 2005"
+    },
+    {
+        "sentence": "Thursday, February 14, 2008 Inflation in Finland hit a 7-year-high in January, reaching 3.8%, it has emerged.",
+        "category": "BUSINESS",
+        "who": "Inflation in Finland",
+        "trigger": "hit",
+        "what": "7-year-high",
+        "where": "Finland",
+        "when": "January"
+    },
+    {
+        "sentence": "The Taiwan Ministry of Interior and the National Fire Agency said electricity was cut off near the epicenter but further information was not possible.",
+        "category": "DISASTER",
+        "who": "Taiwan Ministry of Interior and the National Fire Agency",
+        "trigger": "said",
+        "what": "electricity was cut off",
+        "where": "near the epicenter",
+        "when": ""
+    },
+    {
+        "sentence": "This is the first major civil aviation crash in China since the crash of a China Eastern Airlines CRJ-200 in 2004.",
+        "category": "DISASTER",
+        "who": "China Eastern Airlines CRJ-200",
+        "trigger": "crash",
+        "what": "",
+        "where": "China",
+        "when": "2004"
+    },
+    {
+        "sentence": "Mr Howard also said that Mr Beazley has promised to eliminate AWAs but has failed to put forward a replacement.",
+        "category": "POLITICS",
+        "who": "Mr Beazley",
+        "trigger": "promised",
+        "what": "eliminate AWAs",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "The Federal Emergency Management Agency or FEMA has cleared the way for at least US$5 million to be given to Erie County and Western New York to be used for the efforts of cleaning up the city.",
+        "category": "BUSINESS",
+        "who": "FEMA",
+        "trigger": "cleared the way",
+        "what": "US$5 million",
+        "where": "Erie County and Western New York",
+        "when": ""
+    },
+    {
+        "sentence": "A bomb wounded a local politician's bodyguard in the northern city of Bilbao on Tuesday, in an attack a senior Spanish Interior Ministry official blamed on the Basque separatist group ETA.",
+        "category": "DISASTER",
+        "who": "bomb",
+        "trigger": "wounded",
+        "what": "bodyguard",
+        "where": "city of Bilbao",
+        "when": "Tuesday"
+    },
+    {
+        "sentence": "He stated that such street demonstrations must stop, and that if it did not, people would be held accountable.",
+        "category": "POLITICS",
+        "who": "He",
+        "trigger": "stated",
+        "what": "street demonstrations must stop",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "Wednesday, July 5, 2006 Kenneth L. Lay, the Enron ex-chief executive and ex-chair, died early Wednesday morning at his vacation home at the age of 64 after a massive coronary attack, according to a family spokesperson.",
+        "category": "DISASTER",
+        "who": "Kenneth L. Lay",
+        "trigger": "died",
+        "what": "",
+        "where": "vacation home",
+        "when": "Wednesday, July 5, 2006"
+    },
+    {
+        "sentence": "Mr Howard has also said that in the past Australians have not taken the problem seriously.",
+        "category": "POLITICS",
+        "who": "Mr Howard",
+        "trigger": "said",
+        "what": "Australians have not taken the problem seriously",
+        "where": "",
+        "when": "in the past"
+    },
+    {
+        "sentence": "Chuppu was an independent candidate backed by the country's ruling party, the Awami League (AL).",
+        "category": "POLITICS",
+        "who": "Chuppu",
+        "trigger": "was",
+        "what": "independent candidate",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "Saturday, September 26, 2009 Afghan officials are recounting a sample of the votes from last month's disputed presidential election, in an effort to resolve weeks of uncertainty about the outcome.",
+        "category": "POLITICS",
+        "who": "Afghan officials",
+        "trigger": "recounting",
+        "what": "sample of the votes",
+        "where": "",
+        "when": "Saturday, September 26, 2009"
+    },
+    {
+        "sentence": "It is clear the Republican Party would rather talk about anything but their failed security policy.",
+        "category": "POLITICS",
+        "who": "Republican Party",
+        "trigger": "talk",
+        "what": "failed security policy",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "The Minister for Transport and Regional Services, Warren Truss, has distanced himself from the Telstra announcement, saying that Telstra has an obligation to maintain services.",
+        "category": "POLITICS",
+        "who": "Warren Truss",
+        "trigger": "distanced",
+        "what": "Telstra announcement",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "Weil's wife, Beatrice Baum, died in 1990, followed by his son Jack B. in January 2008.",
+        "category": "DISASTER",
+        "who": "Beatrice Baum",
+        "trigger": "died",
+        "what": "",
+        "where": "",
+        "when": "1990"
+    },
+    {
+        "sentence": "Iran called the accusations 'baseless' and deemed the cutting of diplomatic ties to be 'ill-considered and short-sighted'.",
+        "category": "POLITICS",
+        "who": "Iran",
+        "trigger": "called",
+        "what": "accusations 'baseless'",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "The current proposal, backed by the United States and Canada, was approved by an 85 percent majority of the IMF's 24-member board.",
+        "category": "BUSINESS",
+        "who": "IMF's 24-member board",
+        "trigger": "approved",
+        "what": "proposal",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "Gunmen seized Camatte from his hotel in Ménaka on November 25.",
+        "category": "DISASTER",
+        "who": "Gunmen",
+        "trigger": "seized",
+        "what": "Camatte",
+        "where": "hotel in Ménaka",
+        "when": "November 25"
+    },
+    {
+        "sentence": "Analysts say that 10% of the U.S. Gulf States' oil production was affected by the hurricane.",
+        "category": "DISASTER",
+        "who": "hurricane",
+        "trigger": "affected",
+        "what": "10% of the U.S. Gulf States' oil production",
+        "where": "U.S. Gulf States",
+        "when": ""
+    },
+    {
+        "sentence": "The revisions mark the first changes to the GPL since the second version was released in 1991.",
+        "category": "BUSINESS",
+        "who": "revisions",
+        "trigger": "mark",
+        "what": "first changes to the GPL",
+        "where": "",
+        "when": "1991"
+    },
+    {
+        "sentence": "This has combined with a backlash against Treasurer w:Peter Costello, after he said in an interview on Lateline that religious teachings caused children 'only a little harm'.",
+        "category": "POLITICS",
+        "who": "Peter Costello",
+        "trigger": "said",
+        "what": "religious teachings caused children only a little harm",
+        "where": "interview on Lateline",
+        "when": ""
+    },
+    {
+        "sentence": "Saturday, May 15, 2010 Italy today fined the Irish airline Ryanair three million euros over the airline's failure to assist passengers after their flights were canceled due to volcanic ash last month.",
+        "category": "BUSINESS",
+        "who": "Italy",
+        "trigger": "fined",
+        "what": "Ryanair",
+        "where": "Italy",
+        "when": "Saturday, May 15, 2010"
+    },
+    {
+        "sentence": "Indian markets have attracted about USD 26.74 billion this year of investment from foreign institutional investors.",
+        "category": "BUSINESS",
+        "who": "foreign institutional investors",
+        "trigger": "attracted",
+        "what": "USD 26.74 billion",
+        "where": "Indian markets",
+        "when": "this year"
+    },
+    {
+        "sentence": "In a small-scale experiment, the first print-based venture for the company, Google bought pages of advertising in magazines such as PC Magazine and MacAddict and sold portions of each page to smaller companies.",
+        "category": "BUSINESS",
+        "who": "Google",
+        "trigger": "bought",
+        "what": "pages of advertising",
+        "where": "magazines",
+        "when": ""
+    },
+    {
+        "sentence": "Thomas A. Andruskevich, president and CEO, Birks & Mayors stated in a press release: The products will be launched in early 2008.",
+        "category": "BUSINESS",
+        "who": "Thomas A. Andruskevich",
+        "trigger": "stated",
+        "what": "The products will be launched",
+        "where": "press release",
+        "when": "early 2008"
+    },
+    {
+        "sentence": "DeWine's decision comes a few days after President Trump declared a national emergency in response to the ongoing coronavirus outbreak.",
+        "category": "POLITICS",
+        "who": "President Trump",
+        "trigger": "declared",
+        "what": "national emergency",
+        "where": "",
+        "when": "a few days after"
+    },
+    {
+        "sentence": "To date the bank has made over $6.5 billion in loans to 7 million people in Bangladesh.",
+        "category": "BUSINESS",
+        "who": "the bank",
+        "trigger": "made",
+        "what": "$6.5 billion in loans",
+        "where": "Bangladesh",
+        "when": "To date"
+    },
+    {
+        "sentence": "The Director General of the Debt Management Office (DMO), Mansur Muhtar confirmed that the Central Bank of Nigeria (CBN) would transfer $4.5 billion to the recipient countries  on Friday.",
+        "category": "BUSINESS",
+        "who": "Central Bank of Nigeria (CBN)",
+        "trigger": "transfer",
+        "what": "$4.5 billion",
+        "where": "",
+        "when": "on Friday"
+    },
+    {
+        "sentence": "Last week, 19 Afghans working for reconstruction projects in the region were killed after their bus was ambushed.",
+        "category": "DISASTER",
+        "who": "ambushed",
+        "trigger": "killed",
+        "what": "19 Afghans",
+        "where": "in the region",
+        "when": "Last week"
+    },
+    {
+        "sentence": "The jet crashed into a neighborhood, sending debris scattering.",
+        "category": "DISASTER",
+        "who": "The jet",
+        "trigger": "crashed",
+        "what": "debris",
+        "where": "neighborhood",
+        "when": ""
+    },
+    {
+        "sentence": "The debate within the party has come to the forefront following a decision earlier this month to export uranium to China.",
+        "category": "BUSINESS",
+        "who": "the party",
+        "trigger": "export",
+        "what": "uranium",
+        "where": "China",
+        "when": "earlier this month"
+    },
+    {
+        "sentence": "Hezbollah has fired 700 missiles across the border, causing civilian casualties in Israeli towns, including Haifa.",
+        "category": "DISASTER",
+        "who": "Hezbollah",
+        "trigger": "fired",
+        "what": "700 missiles",
+        "where": "across the border",
+        "when": ""
+    },
+    {
+        "sentence": "It estimated it has earned about $50 million worth of public relations following the free Grand Slam campaign, Chmiel said.",
+        "category": "BUSINESS",
+        "who": "it",
+        "trigger": "earned",
+        "what": "$50 million worth of public relations",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "Senator Bob Brown has stated that in order to elucidate further Government actions, 'between now and Christmas, when Senator Hill asks for leave, he will not get it.'",
+        "category": "POLITICS",
+        "who": "Bob Brown",
+        "trigger": "stated",
+        "what": "Senator Hill will not get leave",
+        "where": "",
+        "when": "between now and Christmas"
+    },
+    {
+        "sentence": "Saturday, August 14, 2010 An earthquake of 7.2 magnitude on the Richter scale struck the Mariana Islands today.",
+        "category": "DISASTER",
+        "who": "earthquake",
+        "trigger": "struck",
+        "what": "Mariana Islands",
+        "where": "Mariana Islands",
+        "when": "Saturday, August 14, 2010"
+    },
+    {
+        "sentence": "Sunday, July 30, 2006 Australian Prime Minister John Howard was mobbed by protesters in Perth, Western Australia on Saturday, angry at the stance he has taken on the recent conflicts in the Middle East.",
+        "category": "POLITICS",
+        "who": "protesters",
+        "trigger": "mobbed",
+        "what": "John Howard",
+        "where": "Perth, Western Australia",
+        "when": "Saturday"
+    },
+    {
+        "sentence": "Monday, August 11, 2008 Share this article   Bill Cotton, who was formerly the director of BBC One, has died in hospital at the age of 80.",
+        "category": "DISASTER",
+        "who": "Bill Cotton",
+        "trigger": "died",
+        "what": "",
+        "where": "hospital",
+        "when": "Monday, August 11, 2008"
+    },
+    {
+        "sentence": "Saturday, January 2, 2010 The Afghan parliament has rejected president Hamid Karzai's nominees for his new cabinet.",
+        "category": "POLITICS",
+        "who": "Afghan parliament",
+        "trigger": "rejected",
+        "what": "president Hamid Karzai's nominees",
+        "where": "Afghanistan",
+        "when": "Saturday, January 2, 2010"
+    },
+    {
+        "sentence": "The Nasdaq rose by 11.81%.",
+        "category": "BUSINESS",
+        "who": "Nasdaq",
+        "trigger": "rose",
+        "what": "by 11.81%",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "The government now needs all of these senators to vote for this bill because Steve Fielding from the Family First Party has now officially announced that he will vote aganist this bill because he disagrees with sending asylum seekers to Nauru instead of being processed in Australia Australia's major opposition party, the Australian Labor Party has urged coalition senators to follow the lead of their lower house counterparts and defeat the bill.",
+        "category": "POLITICS",
+        "who": "Steve Fielding",
+        "trigger": "announced",
+        "what": "he will vote aganist this bill",
+        "where": "Australia",
+        "when": "now"
+    },
+    {
+        "sentence": "Their assets, and those of the mine, have been frozen by the authorities.",
+        "category": "BUSINESS",
+        "who": "authorities",
+        "trigger": "frozen",
+        "what": "Their assets, and those of the mine",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "Tuesday, August 29, 2006 A van carrying around thirty-three people crashed into the Alamatti reservoir on the Krishna river in north Karnataka, killing 25 people while the rest managed to swim to safety.",
+        "category": "DISASTER",
+        "who": "van",
+        "trigger": "crashed",
+        "what": "25 people",
+        "where": "Alamatti reservoir",
+        "when": "Tuesday, August 29, 2006"
+    },
+    {
+        "sentence": "He also took the Dutch and German governments to task for ignoring their respective parliaments.",
+        "category": "POLITICS",
+        "who": "He",
+        "trigger": "took to task",
+        "what": "Dutch and German governments",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "Friday, June 19, 2009 Total S.A., a French oil company has fired 900 contract workers at Lindsey Oil Refinery in North Killingholme, North Lincolnshire, England in response to a wildcat strike which took place at the facility this week.",
+        "category": "BUSINESS",
+        "who": "Total S.A.",
+        "trigger": "fired",
+        "what": "900 contract workers",
+        "where": "Lindsey Oil Refinery",
+        "when": "Friday, June 19, 2009"
+    },
+    {
+        "sentence": "France's largest bank, BNP Paribas SA, halted withdrawals from three large investment funds which were crippled by sub-prime exposure.",
+        "category": "BUSINESS",
+        "who": "BNP Paribas SA",
+        "trigger": "halted",
+        "what": "withdrawals",
+        "where": "France",
+        "when": ""
+    },
+    {
+        "sentence": "The meeting is in response to murder of Michael McIlveen, a 15-year-old Catholic boy by a loyalist\\/unionist mob in County Antrim.",
+        "category": "DISASTER",
+        "who": "loyalist\\/unionist mob",
+        "trigger": "murder",
+        "what": "Michael McIlveen",
+        "where": "County Antrim",
+        "when": ""
+    },
+    {
+        "sentence": "The other, Garuda Indonesia Flight 200, involved a 737 belonging to the state owned flag carrier speeding off a runway at Yogyakarta during an attempted landing; 21 people were killed.",
+        "category": "DISASTER",
+        "who": "Garuda Indonesia Flight 200",
+        "trigger": "killed",
+        "what": "21 people",
+        "where": "Yogyakarta",
+        "when": ""
+    },
+    {
+        "sentence": "Militants stormed the UN residence around dawn wearing suicide vests.",
+        "category": "DISASTER",
+        "who": "Militants",
+        "trigger": "stormed",
+        "what": "UN residence",
+        "where": "UN residence",
+        "when": "around dawn"
+    },
+    {
+        "sentence": "The AFA ended in May what is considered a largely ineffective nine-year boycott of The Walt Disney Co.",
+        "category": "BUSINESS",
+        "who": "AFA",
+        "trigger": "ended",
+        "what": "boycott of The Walt Disney Co.",
+        "where": "",
+        "when": "May"
+    },
+    {
+        "sentence": "The official also said that the Prime Minister Sheikh Hasina and her sister Sheikh Rehana were also present during Chuppu's visit.",
+        "category": "POLITICS",
+        "who": "Sheikh Hasina and her sister Sheikh Rehana",
+        "trigger": "present",
+        "what": "Chuppu's visit",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "They also have to allow access for inspections by the International Atomic Energy Agency (IAEA) to a number of sites including Natanz and Fordo, as well as information on the reactor at Arak.",
+        "category": "POLITICS",
+        "who": "They",
+        "trigger": "allow access",
+        "what": "inspections",
+        "where": "Natanz and Fordo",
+        "when": ""
+    },
+    {
+        "sentence": "An airplane seat and life vest were found floating in Atlantic waters on Tuesday.",
+        "category": "DISASTER",
+        "who": "airplane seat and life vest",
+        "trigger": "found",
+        "what": "",
+        "where": "Atlantic waters",
+        "when": "Tuesday"
+    },
+    {
+        "sentence": "He also described a sound akin to that of an exploding gas canister as the building came down.",
+        "category": "DISASTER",
+        "who": "building",
+        "trigger": "came down",
+        "what": "",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "More than 35 suspected drone attacks have killed over 340 people since August last year.",
+        "category": "DISASTER",
+        "who": "drone attacks",
+        "trigger": "killed",
+        "what": "over 340 people",
+        "where": "",
+        "when": "since August last year"
+    },
+    {
+        "sentence": "Quotas for women elected in local governments led to changes in underlying beliefs about the effectiveness of women in government.",
+        "category": "POLITICS",
+        "who": "Quotas for women",
+        "trigger": "led to",
+        "what": "changes in underlying beliefs",
+        "where": "local governments",
+        "when": ""
+    },
+    {
+        "sentence": "People are encouraged to go to one of many camps, which are funded by the government, to seek refuge from the continued flooding.",
+        "category": "DISASTER",
+        "who": "government",
+        "trigger": "funded",
+        "what": "camps",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "An Indonesian fisherman was last week fined $A130,000, setting a new record, after his boat was caught off with over 100kg of dried reef fish, 300kg of fish on ice and 10kg of dried shark fin.",
+        "category": "BUSINESS",
+        "who": "Indonesian fisherman",
+        "trigger": "fined",
+        "what": "$A130,000",
+        "where": "",
+        "when": "last week"
+    },
+    {
+        "sentence": "A further $1.3 billion was lost in restructuring charges.",
+        "category": "BUSINESS",
+        "who": "restructuring charges",
+        "trigger": "lost",
+        "what": "$1.3 billion",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "The Vilcanota and Rio Blanco rivers located nearby, meanwhile both have overflowed, flooding hundreds of hectares of corn crop and fifty homes, according to officials.",
+        "category": "DISASTER",
+        "who": "Vilcanota and Rio Blanco rivers",
+        "trigger": "overflowed",
+        "what": "hundreds of hectares of corn crop and fifty homes",
+        "where": "",
+        "when": "meanwhile"
+    },
+    {
+        "sentence": "Hundreds of tourists are trapped in the Aeolian Islands near Scicily, Italy after five metre waves prompted a two-day suspension of ferry services and destroyed roofs.",
+        "category": "DISASTER",
+        "who": "five metre waves",
+        "trigger": "prompted",
+        "what": "two-day suspension of ferry services",
+        "where": "Aeolian Islands",
+        "when": ""
+    },
+    {
+        "sentence": "Brudziński said Adamowicz required resuscitation, and was in a 'serious' condition; TVN24 reported he received surgery.",
+        "category": "DISASTER",
+        "who": "TVN24",
+        "trigger": "reported",
+        "what": "he received surgery",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "Senator Chris Ellison, Minister for Justice and Customs, moved to substitute 'abhorrence of' for 'opposition to.'",
+        "category": "POLITICS",
+        "who": "Chris Ellison",
+        "trigger": "moved",
+        "what": "to substitute 'abhorrence of' for 'opposition to.'",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "US$2 million, 1.6 million euro) in compensation.",
+        "category": "POLITICS",
+        "who": "",
+        "trigger": "compensation",
+        "what": "US$2 million, 1.6 million euro",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "Di Natale accused both major parties of being deceitful in 'slashing' both the target of and agency funding for renewable energy, leaving no plan to realize the investment potential of the renewable sector.",
+        "category": "POLITICS",
+        "who": "Di Natale",
+        "trigger": "accused",
+        "what": "both major parties",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "In August 2008, Chula Vista's eastern 91913 zip code had the highest home mortgage default rate in the county with 154 filings and 94 foreclosures, an increase of 154% over one year previously.",
+        "category": "BUSINESS",
+        "who": "91913 zip code",
+        "trigger": "had",
+        "what": "highest home mortgage default rate",
+        "where": "Chula Vista",
+        "when": "August 2008"
+    },
+    {
+        "sentence": "Paramount will not receive Dreamworks' animation studios, which is \nresponsible for the hit Shrek, but it will own the distribution rights\nof previously made Dreamworks films.",
+        "category": "BUSINESS",
+        "who": "Paramount",
+        "trigger": "own",
+        "what": "distribution rights of previously made Dreamworks films",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "Monday, August 2, 2010 Investigators have found the black box of an Airblue flight that crashed into the Margalla Hills of Pakistan's capital city on Wednesday.",
+        "category": "DISASTER",
+        "who": "Investigators",
+        "trigger": "found",
+        "what": "black box of an Airblue flight",
+        "where": "Margalla Hills",
+        "when": "Monday, August 2, 2010"
+    },
+    {
+        "sentence": "Friday, December 23, 2005\n \nAn Azerbaijan passenger plane has crashed after taking off from the country's capital, Baku, officials say.",
+        "category": "DISASTER",
+        "who": "Azerbaijan passenger plane",
+        "trigger": "crashed",
+        "what": "",
+        "where": "Baku",
+        "when": "Friday, December 23, 2005"
+    },
+    {
+        "sentence": "Senator Julian McGauran said to Senator Stott-Despoja 'you would be against [the laws] anyway.'",
+        "category": "POLITICS",
+        "who": "Julian McGauran",
+        "trigger": "said",
+        "what": "you would be against [the laws]",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "Saturday, April 4, 2009 At least five police officers were shot this morning in the Stanton Heights section of Pittsburgh, Pennsylvania.",
+        "category": "DISASTER",
+        "who": "police officers",
+        "trigger": "shot",
+        "what": "At least five",
+        "where": "Stanton Heights section of Pittsburgh",
+        "when": "Saturday, April 4, 2009"
+    },
+    {
+        "sentence": "France's Thales will supply electronics, Wimborne, UK's Cobham will manufacture refueling equipment and Southampton, UK's VT Group will provide service management.",
+        "category": "BUSINESS",
+        "who": "Thales, Cobham and VT Group",
+        "trigger": "supply, manufacture and provide",
+        "what": "electronics, refueling equipment and service management",
+        "where": "France, Wimborne, UK and Southampton, UK",
+        "when": ""
+    },
+    {
+        "sentence": "Thomas Cook management has offered the employees five weeks' redundancy pay for every year worked at the company, in excess of the minimum two weeks' pay per year worked required by Irish employment law, and says that the Grafton Street location had been losing money for five years.",
+        "category": "BUSINESS",
+        "who": "Thomas Cook management",
+        "trigger": "offered",
+        "what": "five weeks' redundancy pay",
+        "where": "Grafton Street location",
+        "when": "for five years"
+    },
+    {
+        "sentence": "Earlier reports had indicated 25 deaths and eight people injured.",
+        "category": "DISASTER",
+        "who": "Earlier reports",
+        "trigger": "indicated",
+        "what": "25 deaths and eight people injured",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "PwC say no Jessops branches will open tomorrow and people who have bought items from their businesses will not be able to return them.",
+        "category": "BUSINESS",
+        "who": "PwC",
+        "trigger": "say",
+        "what": "no Jessops branches will open",
+        "where": "",
+        "when": "tomorrow"
+    },
+    {
+        "sentence": "The website of Reuters, another news service, was reportedly hacked by Syrian government supporters in August.",
+        "category": "DISASTER",
+        "who": "Syrian government supporters",
+        "trigger": "hacked",
+        "what": "website of Reuters",
+        "where": "",
+        "when": "in August"
+    },
+    {
+        "sentence": "Human Rights Watch's Asia director, Brad Adams, remarked: 'The Thai military's assault on basic human rights has apparently grown to not only target peaceful protesters but now also silent ones as well - since now just holding up an arm with a three-finger salute is enough to earn the junta's ire'.",
+        "category": "POLITICS",
+        "who": "Thai military",
+        "trigger": "assault",
+        "what": "basic human rights",
+        "where": "",
+        "when": "now"
+    },
+    {
+        "sentence": "However, this version of events was contested when a statement from the Afghani president's office declared that 16 civilians were killed, not 15 militants.",
+        "category": "DISASTER",
+        "who": "statement from the Afghani president's office",
+        "trigger": "declared",
+        "what": "16 civilians were killed",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "The St. Louis plant is one of two plants that manufactures the Ford Explorer, whose sales had a 29% decline in 2005.",
+        "category": "BUSINESS",
+        "who": "Ford Explorer",
+        "trigger": "decline",
+        "what": "sales",
+        "where": "St. Louis plant",
+        "when": "in 2005"
+    },
+    {
+        "sentence": "He presented their commander, Captain Abol-Ghassem Amangah, with Iran's third degree medal of courage.",
+        "category": "POLITICS",
+        "who": "He",
+        "trigger": "presented",
+        "what": "Iran's third degree medal of courage",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "Tuesday, September 25, 2007 The Australian Federal Government today announced an additional AU$714 million in aid to farmers affected by the drought.",
+        "category": "POLITICS",
+        "who": "Australian Federal Government",
+        "trigger": "announced",
+        "what": "AU$714 million in aid",
+        "where": "",
+        "when": "Tuesday, September 25, 2007"
+    },
+    {
+        "sentence": "As fear can affect the taste of the meat, after being speared and bludgeoned to death, they are left to hang for a day before being cut up.",
+        "category": "DISASTER",
+        "who": "",
+        "trigger": "speared and bludgeoned",
+        "what": "they",
+        "where": "",
+        "when": "for a day"
+    },
+    {
+        "sentence": "State Premier Daniel Andrews has said, 'given the current outbreak [of Covid-19] in Victoria, and recent advice from ATAGI, we're expanding access to the vaccines we have available so Victorians can get vaccinated to protect themselves, their loved ones and their community,' adding, 'vaccination is our only way out of this pandemic'.",
+        "category": "POLITICS",
+        "who": "Daniel Andrews",
+        "trigger": "expanding access",
+        "what": "vaccines",
+        "where": "Victoria",
+        "when": "current outbreak"
+    },
+    {
+        "sentence": "Friday, June 9, 2006 According to a government document, the Australian federal government has detained 26 Australian citizens in immigration detention centres over the past ten years.",
+        "category": "POLITICS",
+        "who": "Australian federal government",
+        "trigger": "detained",
+        "what": "26 Australian citizens",
+        "where": "immigration detention centres",
+        "when": "over the past ten years"
+    },
+    {
+        "sentence": "DAE was set up last year by the government of the United Arab Emirates in Dubai, with funds of US$15 billion (approx.",
+        "category": "BUSINESS",
+        "who": "government of the United Arab Emirates",
+        "trigger": "set up",
+        "what": "DAE",
+        "where": "Dubai",
+        "when": "last year"
+    },
+    {
+        "sentence": "This was an increase from the 5% rate in April, and was the biggest monthly jump in more than two decades.",
+        "category": "BUSINESS",
+        "who": "",
+        "trigger": "increase",
+        "what": "rate",
+        "where": "",
+        "when": "in April"
+    },
+    {
+        "sentence": "Tuesday, June 20, 2006 The Australian House of Representatives yesterday discussed as part of private Member's business a motion moved by Michael Johnson (Australian Liberal Party, Division of Ryan) that sought to affirm and 'celebrate' support for marriage 'between a man and a woman' and called on the Government to 'enact policies that promote and strengthen marriage'.",
+        "category": "POLITICS",
+        "who": "Australian House of Representatives",
+        "trigger": "discussed",
+        "what": "motion",
+        "where": "",
+        "when": "yesterday"
+    },
+    {
+        "sentence": "She had to receive hospital treatment for the injury.",
+        "category": "DISASTER",
+        "who": "She",
+        "trigger": "receive",
+        "what": "hospital treatment",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "Foxsports quotes a Telmex release as saying 'The Telmex Team can confirm that Carlos Slim Helu has not bought the Honda F1 team nor is holding any negotiations to do so.'",
+        "category": "BUSINESS",
+        "who": "Carlos Slim Helu",
+        "trigger": "not bought",
+        "what": "Honda F1 team",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "The government wants to change that saying that these special pensions apply to 1.6 million workers and amount to 6% of the governments total pension payments.",
+        "category": "POLITICS",
+        "who": "government",
+        "trigger": "change",
+        "what": "special pensions",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "According to a government spokesman in Baghdad, more than 20 total attacks occurred in the country, and were targeted at both the military and civilians.",
+        "category": "DISASTER",
+        "who": "attacks",
+        "trigger": "occurred",
+        "what": "military and civilians",
+        "where": "Baghdad",
+        "when": ""
+    },
+    {
+        "sentence": "Saturday, January 30, 2010 Early on Friday, Islamic insurgents fought with African peace-keepers and the Somali army in Mogadishu, capital of Somalia, killing twelve people.",
+        "category": "DISASTER",
+        "who": "Islamic insurgents",
+        "trigger": "fought",
+        "what": "African peace-keepers and the Somali army",
+        "where": "Mogadishu, capital of Somalia",
+        "when": "Early on Friday"
+    },
+    {
+        "sentence": "Notably, the Fitzroy River broke a 2002 record of 13.95 meters (45.8 ft), reaching a water level of 15.81 meters (51.9 ft) on Wednesday, according to a Bureau of Meteorology spokesperson.",
+        "category": "DISASTER",
+        "who": "Fitzroy River",
+        "trigger": "broke",
+        "what": "2002 record",
+        "where": "Fitzroy River",
+        "when": "on Wednesday"
+    },
+    {
+        "sentence": "CTI news agency reported one person was injured by falling debris in Kaohsiung, and one woman was hospitalized in the southern city of Chiayi.",
+        "category": "DISASTER",
+        "who": "falling debris",
+        "trigger": "injured",
+        "what": "one person",
+        "where": "Kaohsiung",
+        "when": ""
+    },
+    {
+        "sentence": "Fisk, writing in The Independent, described how the task of identifying all of the bodies has been complicated because many have been tortured or otherwise disfigured.",
+        "category": "DISASTER",
+        "who": "",
+        "trigger": "tortured or otherwise disfigured",
+        "what": "many",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "Biogen shares which had hit a 52 week high of $70 just two weeks before the announcement have since fallen to just $41.26.",
+        "category": "BUSINESS",
+        "who": "Biogen shares",
+        "trigger": "fallen",
+        "what": "",
+        "where": "",
+        "when": "since the announcement"
+    },
+    {
+        "sentence": "The same group recently bought Wessel & Vett A\\/S and Magasin du Nord, so it already owned 20% in Illum.",
+        "category": "BUSINESS",
+        "who": "The same group",
+        "trigger": "bought",
+        "what": "Wessel & Vett A\\/S and Magasin du Nord",
+        "where": "",
+        "when": "recently"
+    },
+    {
+        "sentence": "Last year, the IRA decommissioned their weaponry.",
+        "category": "POLITICS",
+        "who": "IRA",
+        "trigger": "decommissioned",
+        "what": "weaponry",
+        "where": "",
+        "when": "Last year"
+    },
+    {
+        "sentence": "Sunday, October 18, 2009 At least 33 people in the Tamil Nadu state of India were killed on Friday after an explosion set fire to a firecracker warehouse, police said.",
+        "category": "DISASTER",
+        "who": "explosion",
+        "trigger": "killed",
+        "what": "At least 33 people",
+        "where": "Tamil Nadu state of India",
+        "when": "on Friday"
+    },
+    {
+        "sentence": "Ali Khamenei issued a veiled warning to opposition leaders, including Mir Hossein Mousavi, who was not present in the prayer hall where Ali Khamenei was speaking, that street demonstrations were unacceptable and challenges to democracy.",
+        "category": "POLITICS",
+        "who": "Ali Khamenei",
+        "trigger": "issued",
+        "what": "veiled warning",
+        "where": "prayer hall",
+        "when": ""
+    },
+    {
+        "sentence": "The drafting assembly, which has been fractious, must approve or reject the draft in 25 days.",
+        "category": "POLITICS",
+        "who": "drafting assembly",
+        "trigger": "approve or reject",
+        "what": "the draft",
+        "where": "",
+        "when": "in 25 days"
+    },
+    {
+        "sentence": "Police reports indicate that suicide is the probable cause.",
+        "category": "DISASTER",
+        "who": "Police reports",
+        "trigger": "indicate",
+        "what": "suicide is the probable cause",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "Tony Blair announced a £150 million support package for the recently unemployed workers of the MG Rover plants, though it has been claimed that his generous offer may be more as a result of the nearby marginal seats in the upcoming elections than compassion on his part.",
+        "category": "POLITICS",
+        "who": "Tony Blair",
+        "trigger": "announced",
+        "what": "£150 million support package",
+        "where": "MG Rover plants",
+        "when": ""
+    },
+    {
+        "sentence": "As well these two major automakers usually award US$1 billion contracts to auto parts suppliers.",
+        "category": "BUSINESS",
+        "who": "two major automakers",
+        "trigger": "award",
+        "what": "US$1 billion contracts",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "Ford introduced a modified version of their hybrid Fusion automobile, amid reports from Capitol Hill calling the Big 3 automakers 'out of touch' with today's necessities, and BMW unveiled an all-electric car called the Mini E. Peter Beutel, president of the energy risk management firm Cameron Hanover, believes national gas prices will bottom out around $1.75.",
+        "category": "BUSINESS",
+        "who": "Ford",
+        "trigger": "introduced",
+        "what": "hybrid Fusion automobile",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "While cutting back on domestic service, Delta has expanded into 'over 60 new international routes,' according to its website.",
+        "category": "BUSINESS",
+        "who": "Delta",
+        "trigger": "expanded into",
+        "what": "over 60 new international routes",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "African leaders have negotiated the deal over the last four years.",
+        "category": "POLITICS",
+        "who": "African leaders",
+        "trigger": "negotiated",
+        "what": "the deal",
+        "where": "",
+        "when": "over the last four years"
+    },
+    {
+        "sentence": "Saturday, May 7, 2011  Australian Prime Minister Julia Gillard is undergoing the final stages of an AU$292 million bilateral agreement with Malaysian counterpart Dato Sri Najib Tun Razak to relocate 800 asylum seekers who arrive illegally by boat away from the Australian mainland for detention and processing.",
+        "category": "POLITICS",
+        "who": "Julia Gillard and Najib Tun Razak",
+        "trigger": "undergoing bilateral agreement",
+        "what": "relocate 800 asylum seekers",
+        "where": "Australian mainland",
+        "when": "Saturday, May 7, 2011"
+    },
+    {
+        "sentence": "Ethiopia has said it has started releasing people, but has not provided figures on the number imprisoned.",
+        "category": "POLITICS",
+        "who": "Ethiopia",
+        "trigger": "started releasing",
+        "what": "people",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "You're a member of the UK Trade Policy Observatory and wrote in December 2020's 'The Cost of Brexit' the British exit from the European Union 'increases UK-EU costs, reduces trade between them, and requires resources for form-filling, queuing' and that 'Brexit will be costly for UK society' free trade agreement or not.",
+        "category": "POLITICS",
+        "who": "British exit from the European Union",
+        "trigger": "increases",
+        "what": "UK-EU costs",
+        "where": "",
+        "when": "December 2020"
+    },
+    {
+        "sentence": "The program will also have all further funding immediately frozen; as a result, all work will halt on the project beyond two small test projects in Arizona.",
+        "category": "POLITICS",
+        "who": "",
+        "trigger": "frozen",
+        "what": "funding",
+        "where": "Arizona",
+        "when": "immediately"
+    },
+    {
+        "sentence": "He added, 'Her clothing had wrapped around her neck'.",
+        "category": "DISASTER",
+        "who": "Her clothing",
+        "trigger": "wrapped around",
+        "what": "her neck",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "Amid preparations for the new Iraqi constitution, the Interim Government has tried to suppress details of the growing number of civilian casualties, but the truth emerged after British veteran journalist Robert Fisk paid a visit to the morgue and was shown the human cost of Iraq's security crisis: 'The July figures are the largest ever recorded in the history of the Baghdad Medical Institute,' one of the senior managers at the morgue said, speaking on condition of anonymity.",
+        "category": "DISASTER",
+        "who": "Interim Government",
+        "trigger": "suppress",
+        "what": "details of civilian casualties",
+        "where": "Iraq",
+        "when": "The July"
+    },
+    {
+        "sentence": "Air Canada has ordered US$6 billion in new airliners, while Air India has signed a deal for a further US$7 billion.",
+        "category": "BUSINESS",
+        "who": "Air Canada and Air India",
+        "trigger": "ordered and signed",
+        "what": "new airliners and a deal",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "Kraft now seem likely to achieve their aim of buying up the confectioner, after four months of negotiations and an offer that was increased twice.",
+        "category": "BUSINESS",
+        "who": "Kraft",
+        "trigger": "buying up",
+        "what": "the confectioner",
+        "where": "",
+        "when": "after four months of negotiations"
+    },
+    {
+        "sentence": "Shifting fortunes see several past attendees missing this year's exclusive get-together in the alpine resort; for a second year running - and now caught up in the UK phone hacking scandal being scrutinised by Lord Leveson's inquiry - media mogul Rupert Murdoch will not be attending.",
+        "category": "POLITICS",
+        "who": "Rupert Murdoch",
+        "trigger": "not be attending",
+        "what": "exclusive get-together",
+        "where": "alpine resort",
+        "when": "this year"
+    },
+    {
+        "sentence": "Airblue Flight 202 departed from Karachi, Pakistan, and was bound for the capital Islamabad when it crashed into the Margalla Hills due to bad weather conditions.",
+        "category": "DISASTER",
+        "who": "Airblue Flight 202",
+        "trigger": "crashed",
+        "what": "",
+        "where": "Margalla Hills",
+        "when": ""
+    },
+    {
+        "sentence": "They did see a number of bodies in the street and on the sidewalk that had been hit by debris.",
+        "category": "DISASTER",
+        "who": "debris",
+        "trigger": "hit",
+        "what": "number of bodies",
+        "where": "in the street and on the sidewalk",
+        "when": ""
+    },
+    {
+        "sentence": "The United States also called for the immediate release of the sailors, supporting the United Kingdom's demand.",
+        "category": "POLITICS",
+        "who": "United States",
+        "trigger": "called for",
+        "what": "immediate release of the sailors",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "Sunday, April 3, 2005 3, the 3G mobile phone firm owned by Hong Kong based Hutchison Whampoa has reported pre-tax, pre-exceptional losses of HK$37.5bn (US$4.8bn\\/€3.7bn) for 2004.",
+        "category": "BUSINESS",
+        "who": "Hutchison Whampoa",
+        "trigger": "reported",
+        "what": "pre-tax losses",
+        "where": "Hong Kong",
+        "when": "for 2004"
+    },
+    {
+        "sentence": "GitHub confirmed the acquisition plans on its blog.",
+        "category": "BUSINESS",
+        "who": "GitHub",
+        "trigger": "confirmed",
+        "what": "acquisition plans",
+        "where": "on its blog",
+        "when": ""
+    },
+    {
+        "sentence": "In an interview to be aired on CBS News, the president said: 'It is important for us to make sure that very graphic photos of somebody who was shot in the head are not floating around as an incitement to additional violence, as a propaganda tool.'",
+        "category": "DISASTER",
+        "who": "somebody",
+        "trigger": "shot",
+        "what": "",
+        "where": "in the head",
+        "when": ""
+    },
+    {
+        "sentence": "Four controlled explosions were carried out on a bus to destroy suspected explosive devices after a call by a member of the public, but later investigations showed that they had been safe.",
+        "category": "DISASTER",
+        "who": "explosions",
+        "trigger": "carried out",
+        "what": "suspected explosive devices",
+        "where": "on a bus",
+        "when": ""
+    },
+    {
+        "sentence": "Hundreds of flights were also cancelled.",
+        "category": "DISASTER",
+        "who": "flights",
+        "trigger": "cancelled",
+        "what": "Hundreds",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "The incident began midday on Saturday when several gunmen, disguised in military uniforms, attacked a checkpoint outside the heavily guarded headquarters.",
+        "category": "DISASTER",
+        "who": "gunmen",
+        "trigger": "attacked",
+        "what": "checkpoint",
+        "where": "outside the heavily guarded headquarters",
+        "when": "midday on Saturday"
+    },
+    {
+        "sentence": "Wednesday, June 4, 2008 A pipeline rupture and fire at Apache Corporation's Varanus Island facility in Western Australia has reduced the supply of natural gas to Western Australia by 30%.",
+        "category": "DISASTER",
+        "who": "pipeline rupture and fire",
+        "trigger": "reduced",
+        "what": "supply of natural gas",
+        "where": "Western Australia",
+        "when": "Wednesday, June 4, 2008"
+    },
+    {
+        "sentence": "Every year, since the assassination of Dr. Ghassemlou 20 years ago by the Islamic Republic of Iran, the PDKI has called on the Kurdish nation in Iranian Kurdistan to commemorate Dr. Ghassemlou and at the same time condemn the Islamic regime’s policies of assassination.",
+        "category": "POLITICS",
+        "who": "Islamic Republic of Iran",
+        "trigger": "assassination",
+        "what": "Dr. Ghassemlou",
+        "where": "Iranian Kurdistan",
+        "when": "20 years ago"
+    },
+    {
+        "sentence": "Delta Air Lines and Northwest Airlines filed for Chapter 11 bankruptcy protection last Wednesday, joining United Airlines and US Airways.",
+        "category": "BUSINESS",
+        "who": "Delta Air Lines and Northwest Airlines",
+        "trigger": "filed for",
+        "what": "Chapter 11 bankruptcy protection",
+        "where": "",
+        "when": "last Wednesday"
+    },
+    {
+        "sentence": "Another 300 jobs will be lost at Vancouver due to major reductions in Air Canada's Pacific-based international flights.",
+        "category": "BUSINESS",
+        "who": "",
+        "trigger": "lost",
+        "what": "300 jobs",
+        "where": "Vancouver",
+        "when": ""
+    },
+    {
+        "sentence": "The Xinhua News Agency reported Typhoon Krosa struck China's Zhejiang and Fujian provinces, before weakening to a tropical storm.",
+        "category": "DISASTER",
+        "who": "Typhoon Krosa",
+        "trigger": "struck",
+        "what": "China's Zhejiang and Fujian provinces",
+        "where": "China",
+        "when": ""
+    },
+    {
+        "sentence": "If their demands are not met they have threatened to kill him.",
+        "category": "DISASTER",
+        "who": "they",
+        "trigger": "kill",
+        "what": "him",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "Prime Minister John Howard denies that the changes are more than 'minor', and denies that the legislation is 'draconian'.",
+        "category": "POLITICS",
+        "who": "John Howard",
+        "trigger": "denies",
+        "what": "changes are more than 'minor'",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "Anthony Scott, the bus driver, and 14 students remain hospitalized, according to Huntsville Hospital spokeswoman Pam Sparks.",
+        "category": "DISASTER",
+        "who": "Anthony Scott and 14 students",
+        "trigger": "remain hospitalized",
+        "what": "",
+        "where": "Huntsville Hospital",
+        "when": ""
+    },
+    {
+        "sentence": "Bush issued the order to commute Libby's prison term after a federal appeals court ruled that Libby could not delay his prison term while his case was on appeal.",
+        "category": "POLITICS",
+        "who": "Bush",
+        "trigger": "commute",
+        "what": "Libby's prison term",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "The promotion was further announced on The Today Show and notices were also sent out to the chain's 'Denny's Breakfast Club' members.",
+        "category": "BUSINESS",
+        "who": "The Today Show",
+        "trigger": "announced",
+        "what": "promotion",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "The mine is owned by Massey Energy but operated by Performance Coal Company, a subsidiary of Massey, which is the fourth largest coal producer in the US.",
+        "category": "BUSINESS",
+        "who": "Performance Coal Company",
+        "trigger": "operated",
+        "what": "The mine",
+        "where": "US",
+        "when": ""
+    },
+    {
+        "sentence": "Tuesday, February 10, 2009 Tim Hortons, a popular Canadian express coffee and doughnut chain, has announced that they will be co-branding with another popular chain, Cold Stone Creamery, an American ice cream parlor chain.",
+        "category": "BUSINESS",
+        "who": "Tim Hortons",
+        "trigger": "announced",
+        "what": "co-branding",
+        "where": "",
+        "when": "Tuesday, February 10, 2009"
+    },
+    {
+        "sentence": "Nine judges began their deliberations at around 1 p.m. local time (1800 GMT), and are expected to announce their decision on Wednesday.",
+        "category": "POLITICS",
+        "who": "Nine judges",
+        "trigger": "began",
+        "what": "deliberations",
+        "where": "",
+        "when": "around 1 p.m. local time"
+    },
+    {
+        "sentence": "The average work week was reduced  by 0.1 hours to 34.3.",
+        "category": "BUSINESS",
+        "who": "",
+        "trigger": "reduced",
+        "what": "average work week",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "Attorneys for the conspirators say that the possibility of no execution led to the withdrawal of the offer.",
+        "category": "POLITICS",
+        "who": "possibility of no execution",
+        "trigger": "led to",
+        "what": "withdrawal of the offer",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "In June, 2004 they were spun off from Silicon Graphics Inc. and acquired by Accel-KKR and Ontario Teachers' Pension Plan.",
+        "category": "BUSINESS",
+        "who": "Accel-KKR and Ontario Teachers' Pension Plan",
+        "trigger": "acquired",
+        "what": "they",
+        "where": "",
+        "when": "In June, 2004"
+    },
+    {
+        "sentence": "A significant proportion of the money came from a senior secured credit facility from Morgan Stanley Senior Funding Inc. Adam Aircraft say that the money will be used to accelerate the production of the A500 and to move the A700 through the certification process with the Federal Aviation Administration (FAA).",
+        "category": "BUSINESS",
+        "who": "Adam Aircraft",
+        "trigger": "accelerate",
+        "what": "production of the A500",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "Shortly before the crash, according to the flight voice recorder, the pilots were talking about the poor weather and ask the traffic controller for permission to descend.",
+        "category": "DISASTER",
+        "who": "the pilots",
+        "trigger": "talking",
+        "what": "poor weather",
+        "where": "",
+        "when": "Shortly before the crash"
+    },
+    {
+        "sentence": "It also demonstrates continuing problems at Suvarnabhumi airport, which has suffered various incidents since it opened last September, the most severe of which being the discovery of large cracks in airport taxiways shortly after opening.",
+        "category": "DISASTER",
+        "who": "Suvarnabhumi airport",
+        "trigger": "suffered",
+        "what": "various incidents",
+        "where": "Suvarnabhumi airport",
+        "when": "since last September"
+    },
+    {
+        "sentence": "There's a hiring freeze at the banks.",
+        "category": "BUSINESS",
+        "who": "the banks",
+        "trigger": "hiring freeze",
+        "what": "",
+        "where": "at the banks",
+        "when": ""
+    },
+    {
+        "sentence": "Sunday, June 24, 2007 A cousin of Saddam Hussein, Ali Hassan al-Majid, also known as 'Chemical Ali', was sentenced to death by hanging yesterday in Iraq by the Supreme Iraqi Criminal Tribunal, along with two other officials from the former Baath Party.",
+        "category": "POLITICS",
+        "who": "Supreme Iraqi Criminal Tribunal",
+        "trigger": "sentenced to death",
+        "what": "Ali Hassan al-Majid",
+        "where": "Iraq",
+        "when": "yesterday"
+    },
+    {
+        "sentence": "Monday, January 31, 2005 Metlife announced on 01\\/31\\/05 that they were going to acquire Travelers Life and Annuity from Citigroup.",
+        "category": "BUSINESS",
+        "who": "Metlife",
+        "trigger": "acquire",
+        "what": "Travelers Life and Annuity",
+        "where": "",
+        "when": "Monday, January 31, 2005"
+    },
+    {
+        "sentence": "The Australian Prime Minister, John Howard, described the event as 'heart breaking' and said the crash of the Sea King helicopter appeared to be an accident.",
+        "category": "POLITICS",
+        "who": "Sea King helicopter",
+        "trigger": "crash",
+        "what": "",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "Later in the day, Merkel took the oath of office and president Horst Köhler officially appointed her along with her cabinet.",
+        "category": "POLITICS",
+        "who": "Horst Köhler",
+        "trigger": "appointed",
+        "what": "Merkel and her cabinet",
+        "where": "",
+        "when": "Later in the day"
+    },
+    {
+        "sentence": "Franken's opponent, incumbent Norm Coleman of the Republican Party, quickly conceded after the court ruling.",
+        "category": "POLITICS",
+        "who": "Norm Coleman",
+        "trigger": "conceded",
+        "what": "",
+        "where": "",
+        "when": "after the court ruling"
+    },
+    {
+        "sentence": "Friday, September 24, 2010 People in American Samoa were given only eight minutes warning that a tsunami, which killed 32 people in the unincorporated territory, resulting from the 2009 Samoa earthquake, was approaching.",
+        "category": "DISASTER",
+        "who": "tsunami",
+        "trigger": "killed",
+        "what": "32 people",
+        "where": "American Samoa",
+        "when": "Friday, September 24, 2010"
+    },
+    {
+        "sentence": "It is estimated that 897,605 barrels of oil production has been curtailed, an amount which accounts for nearly 59.8% percent of the Gulf of Mexico's total daily output.",
+        "category": "BUSINESS",
+        "who": "",
+        "trigger": "curtailed",
+        "what": "897,605 barrels of oil production",
+        "where": "Gulf of Mexico",
+        "when": ""
+    },
+    {
+        "sentence": "Fielding noted that Family First supported the fact that more families would receive benefits, but called for a greater increase in the benefit rather than 'the child-care rebate, which only goes to parents of children attending formal child care'.",
+        "category": "POLITICS",
+        "who": "Fielding",
+        "trigger": "called for",
+        "what": "greater increase in the benefit",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "Friday, August 12, 2005 What began as a ground crew strike on Thursday has escalated into the grounding of all flights from Heathrow's Terminal 4 until at least 8pm Friday.",
+        "category": "DISASTER",
+        "who": "ground crew strike",
+        "trigger": "grounding",
+        "what": "all flights",
+        "where": "Heathrow's Terminal 4",
+        "when": "Friday, August 12, 2005"
+    },
+    {
+        "sentence": "But the way that the EU rules get into this is in two ways: one is we have agreed that we will manage fisheries with a degree of co-operation and scientific co-operation with the Europeans so that we do agree, between us, what the maximum sustainable take is, so that that's a scientific decision in principle.",
+        "category": "POLITICS",
+        "who": "we",
+        "trigger": "manage",
+        "what": "fisheries",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "The credit line by the European Central Bank is the first time publicly that it has extended help to countries other than the 15 that make up the Eurozone.",
+        "category": "BUSINESS",
+        "who": "European Central Bank",
+        "trigger": "extended help",
+        "what": "credit line",
+        "where": "Eurozone",
+        "when": ""
+    },
+    {
+        "sentence": "We have always believed that it is of strategic importance to engage in different forms of political protest that are less costly in terms of human lives; for example, in the form of general strikes and other forms civil disobedience – which we witnessed all over Iranian Kurdistan on the occasion of the 20th anniversary of the assassination of the Kurdish leader Dr. Ghassemlou on July 13, 1989, by the Islamic Republic in Vienna.",
+        "category": "POLITICS",
+        "who": "Islamic Republic",
+        "trigger": "assassination",
+        "what": "Dr. Ghassemlou",
+        "where": "Vienna",
+        "when": "July 13, 1989"
+    },
+    {
+        "sentence": "About 20 people were reportedly injured in Tokyo following the collapse of a roof of a hall.",
+        "category": "DISASTER",
+        "who": "collapse of a roof",
+        "trigger": "injured",
+        "what": "About 20 people",
+        "where": "Tokyo",
+        "when": ""
+    },
+    {
+        "sentence": "This is because major financial difficulties have become apparent today, with two major shareholders pulling out of the company.",
+        "category": "BUSINESS",
+        "who": "two major shareholders",
+        "trigger": "pulling out",
+        "what": "",
+        "where": "the company",
+        "when": "today"
+    },
+    {
+        "sentence": "Monday, June 9, 2008 Apple Computer today launched a 3G version of its iPhone device.",
+        "category": "BUSINESS",
+        "who": "Apple Computer",
+        "trigger": "launched",
+        "what": "3G version of its iPhone",
+        "where": "",
+        "when": "Monday, June 9, 2008"
+    },
+    {
+        "sentence": "Whichever party has a majority of MPs after all constituencies have announced their results has the opportunity to form a government.",
+        "category": "POLITICS",
+        "who": "Whichever party",
+        "trigger": "form",
+        "what": "a government",
+        "where": "",
+        "when": "after all constituencies have announced"
+    },
+    {
+        "sentence": "The victims included Patrick Doherty (32), Hugh Gilmour (17), Jackie Duddy (17), John Young (17), Kevin McElhinney (17), Michael Kelly (17), Gerald Donaghey (17), William Nash (19), Michael McDaid (20), Jim Wray (22), William McKinney (27) and Bernard 'Barney' McGuigan (41).",
+        "category": "DISASTER",
+        "who": "",
+        "trigger": "included",
+        "what": "victims",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "They have been selling out our beaches and forests to touristic monopolies and have been offering the monuments in order to promote commercial products – and that is not considered to be inappropriate.",
+        "category": "BUSINESS",
+        "who": "They",
+        "trigger": "selling out",
+        "what": "beaches and forests",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "Dominello, the Member for Ryde since 2008, retired prior to the election; Lane has called him 'a close friend and a mentor'.",
+        "category": "POLITICS",
+        "who": "Dominello",
+        "trigger": "retired",
+        "what": "",
+        "where": "Ryde",
+        "when": "prior to the election"
+    },
+    {
+        "sentence": "Rabab Rifaat, an Egyptian woman who witnessed the carnage, said she heard 'a boom, a horrible sound, very loud', immediately before seeing body parts flying through the air.",
+        "category": "DISASTER",
+        "who": "Rabab Rifaat",
+        "trigger": "witnessed",
+        "what": "carnage",
+        "where": "",
+        "when": "immediately before"
+    },
+    {
+        "sentence": "Coming nine months before the first Presidential ballots are cast and eighteen months before the actual election, the Secret Service announced that it would place Democratic Senator of Illinois Barack Obama under protection.",
+        "category": "POLITICS",
+        "who": "Secret Service",
+        "trigger": "place under protection",
+        "what": "Barack Obama",
+        "where": "",
+        "when": "Coming nine months before"
+    },
+    {
+        "sentence": "Several people were wounded by a gun and the suspect was arrested.",
+        "category": "DISASTER",
+        "who": "suspect",
+        "trigger": "wounded",
+        "what": "Several people",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "FDA said the soft drink does not have enough nutrients to justify the use of the word 'plus' in its trade name.",
+        "category": "BUSINESS",
+        "who": "FDA",
+        "trigger": "said",
+        "what": "soft drink does not have enough nutrients",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "In what seems to be a gathering of information on Schaper from other online sources, according to Enturbulation.org, the result of releasing the information has resulted in legal and physical threats from Schaper to someone, known as 'HouseSpiderV2' on Enturbulation, who has claimed to have released e-mail correspondence between him and Schaper.",
+        "category": "DISASTER",
+        "who": "Schaper",
+        "trigger": "threats",
+        "what": "legal and physical threats",
+        "where": "Enturbulation.org",
+        "when": ""
+    },
+    {
+        "sentence": "Tuesday, January 18, 2005 Iraq - The Syrian Catholic archbishop of Mosul, Basile Georges Casmoussa, aged 66, who was abducted by unidentified gunmen yesterday afternoon, was released earlier today and is now back in his home.",
+        "category": "DISASTER",
+        "who": "unidentified gunmen",
+        "trigger": "abducted",
+        "what": "Basile Georges Casmoussa",
+        "where": "Mosul",
+        "when": "Tuesday, January 18, 2005"
+    },
+    {
+        "sentence": "Annually the station produces 22.6 billion kWh.",
+        "category": "BUSINESS",
+        "who": "the station",
+        "trigger": "produces",
+        "what": "22.6 billion kWh",
+        "where": "",
+        "when": "Annually"
+    },
+    {
+        "sentence": "Friday, June 23, 2006 Speaking in the Australian House of Representatives on Thursday, opposition leader Kim Beazley (Brand, Labor) asked Australian Prime Minister John Howard (Bennelong, Liberal) why the government had not adopted Labor's policy on Internet filtering.",
+        "category": "POLITICS",
+        "who": "Kim Beazley",
+        "trigger": "asked",
+        "what": "why the government had not adopted Labor's policy",
+        "where": "Australian House of Representatives",
+        "when": "Friday, June 23, 2006"
+    },
+    {
+        "sentence": "Friday, April 23, 2010 Minas, one of the largest states of Brazil, has stopped the sale of the Toyota Corolla over safety concerns.",
+        "category": "POLITICS",
+        "who": "Minas",
+        "trigger": "stopped",
+        "what": "sale of the Toyota Corolla",
+        "where": "Brazil",
+        "when": "Friday, April 23, 2010"
+    },
+    {
+        "sentence": "As well as LyondellBasell, 79 affiliates have become insolvent.",
+        "category": "BUSINESS",
+        "who": "LyondellBasell and 79 affiliates",
+        "trigger": "insolvent",
+        "what": "",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "The decree also introduces a new media code and complaints authority.",
+        "category": "POLITICS",
+        "who": "decree",
+        "trigger": "introduces",
+        "what": "new media code and complaints authority",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "However, there is also the ongoing violence by Muslim separatists in the South Thailand insurgency, which has left 1,900 people dead since 2004.",
+        "category": "DISASTER",
+        "who": "Muslim separatists",
+        "trigger": "violence",
+        "what": "1,900 people dead",
+        "where": "South Thailand",
+        "when": "since 2004"
+    },
+    {
+        "sentence": "When it collapsed in October 2008 it had its accounts frozen and had to be rescued, losing 320,000 British and Dutch investors their savings.",
+        "category": "BUSINESS",
+        "who": "it",
+        "trigger": "collapsed",
+        "what": "losing savings",
+        "where": "",
+        "when": "October 2008"
+    },
+    {
+        "sentence": "The merger will cut costs by dropping 8,800 employees, approximately 10% of their combined workforce.",
+        "category": "BUSINESS",
+        "who": "merger",
+        "trigger": "dropping",
+        "what": "8,800 employees",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "With half of the vote counted, the ANC has 66% of the vote.",
+        "category": "POLITICS",
+        "who": "ANC",
+        "trigger": "has",
+        "what": "66% of the vote",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "Mr Howard said one of his advisors 'checked with some cables to confirm that those cables supported the open-source claims and was satisfied that they did'.",
+        "category": "POLITICS",
+        "who": "one of his advisors",
+        "trigger": "checked",
+        "what": "cables",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "Injured people are being rushed to local hospitals according to sources.",
+        "category": "DISASTER",
+        "who": "",
+        "trigger": "rushed",
+        "what": "Injured people",
+        "where": "local hospitals",
+        "when": ""
+    },
+    {
+        "sentence": "The strongest quake of the year so far, the earthquake occurred at 04:26 local time (15:27 UTC) on May 3 at 19.9°S, 174.2°W, about 150 KM south of Neiafu, Tonga and 2150 KM north-northeast of Auckland, New Zealand.",
+        "category": "DISASTER",
+        "who": "earthquake",
+        "trigger": "occurred",
+        "what": "",
+        "where": "Tonga",
+        "when": "May 3"
+    },
+    {
+        "sentence": "The Associated Press reports that an anonymous source in Black Lion Hospital told their reporter that most of the dead had been shot in the chest.",
+        "category": "DISASTER",
+        "who": "",
+        "trigger": "shot",
+        "what": "most of the dead",
+        "where": "Black Lion Hospital",
+        "when": ""
+    },
+    {
+        "sentence": "Taiwan's Disaster Relief Center reported that Krosa killed at least 5 people and knocked out power to another 2 million when it made landfall as a Category 4 typhoon.",
+        "category": "DISASTER",
+        "who": "Krosa",
+        "trigger": "killed",
+        "what": "at least 5 people",
+        "where": "Taiwan",
+        "when": ""
+    },
+    {
+        "sentence": "In total, officials report 181 people were hospitalized and one person remains unaccounted for.",
+        "category": "DISASTER",
+        "who": "officials",
+        "trigger": "report",
+        "what": "181 people were hospitalized",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "BCE revealed that the potential takeover group includes the Canada Pension Plan Investment Board, the Caisse de dépôt et placement du Québec, and Canada's Public Sector Pension Investment Board.",
+        "category": "BUSINESS",
+        "who": "BCE",
+        "trigger": "revealed",
+        "what": "potential takeover group",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "On November 5, Hussein was sentenced to death for his role in the Dujail massacre in 1982, in which 148 Shiites died.",
+        "category": "POLITICS",
+        "who": "Hussein",
+        "trigger": "sentenced to death",
+        "what": "",
+        "where": "Dujail",
+        "when": "November 5"
+    },
+    {
+        "sentence": "Saturday, January 28, 2017\n \nYesterday,  thousands of anti-abortion protesters rallied in Washington, D.C.",
+        "category": "POLITICS",
+        "who": "anti-abortion protesters",
+        "trigger": "rallied",
+        "what": "",
+        "where": "Washington, D.C.",
+        "when": "Saturday, January 28, 2017"
+    },
+    {
+        "sentence": "This is the second acquisition for Wal-Mart in the last two years in the country.",
+        "category": "BUSINESS",
+        "who": "Wal-Mart",
+        "trigger": "acquisition",
+        "what": "",
+        "where": "the country",
+        "when": "last two years"
+    },
+    {
+        "sentence": "It has since fallen to a low of $12.22, although it has now recovered.",
+        "category": "BUSINESS",
+        "who": "It",
+        "trigger": "fallen",
+        "what": "low of $12.22",
+        "where": "",
+        "when": "now"
+    },
+    {
+        "sentence": "The increase was better than analysts had predicted, and Ford's stock rose to a five-year high in morning trading, before declining later in the day.",
+        "category": "BUSINESS",
+        "who": "Ford's stock",
+        "trigger": "rose",
+        "what": "five-year high",
+        "where": "",
+        "when": "morning"
+    },
+    {
+        "sentence": "USA deny they supported dictators and they protest against Fidel Castro, the long-time dictator of Cuba, who has received support, military and economic help from USSR for a long time.",
+        "category": "POLITICS",
+        "who": "USA",
+        "trigger": "deny",
+        "what": "supported dictators",
+        "where": "Cuba",
+        "when": "for a long time"
+    },
+    {
+        "sentence": "The market price for crude oil is rising about 1% a day, while gasoline futures rose 5% both Wednesday and Thursday.",
+        "category": "BUSINESS",
+        "who": "market price for crude oil",
+        "trigger": "rising",
+        "what": "1% a day",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "GOP presidential candidates Michele Bachmann, Herman Cain, and Mitt Romney have all sought his endorsement.",
+        "category": "POLITICS",
+        "who": "Michele Bachmann, Herman Cain, and Mitt Romney",
+        "trigger": "sought",
+        "what": "endorsement",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "In March 2007, competitors IBM and Cisco announced they would join in the competition for developing unified communications applications and the development of open technologies around the unified communications and collaboration (UC2) client platform an application programming interfaces (APIs) offered by IBM as a subset of Lotus Sametime.",
+        "category": "BUSINESS",
+        "who": "IBM and Cisco",
+        "trigger": "announced",
+        "what": "join in the competition",
+        "where": "",
+        "when": "March 2007"
+    },
+    {
+        "sentence": "Police said a bomb attached to a bicycle exploded in a popular market in the town of Mussayab, about 60 kilometers (38 miles) south of the capital of Baghdad.",
+        "category": "DISASTER",
+        "who": "bomb",
+        "trigger": "exploded",
+        "what": "",
+        "where": "town of Mussayab",
+        "when": ""
+    },
+    {
+        "sentence": "Earlier this month, over 30 people were killed in another coal mine in the northern part of the country, after a flood.",
+        "category": "DISASTER",
+        "who": "flood",
+        "trigger": "killed",
+        "what": "over 30 people",
+        "where": "northern part of the country",
+        "when": "Earlier this month"
+    },
+    {
+        "sentence": "Numerous flights from all around the country had to be grounded today because of the problem.",
+        "category": "DISASTER",
+        "who": "flights",
+        "trigger": "grounded",
+        "what": "Numerous",
+        "where": "all around the country",
+        "when": "today"
+    },
+    {
+        "sentence": "Calpine has obtained secured debtor-in-possession financing from Deutsche Bank and Credit Suisse First Boston totaling $2 billion.",
+        "category": "BUSINESS",
+        "who": "Calpine",
+        "trigger": "obtained",
+        "what": "debtor-in-possession financing",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "They were subsequently locked out on August 28.",
+        "category": "BUSINESS",
+        "who": "They",
+        "trigger": "locked out",
+        "what": "",
+        "where": "",
+        "when": "August 28"
+    },
+    {
+        "sentence": "They urged financial firms to 'fully' disclose their at-risk investments and improve capital reserves.",
+        "category": "BUSINESS",
+        "who": "They",
+        "trigger": "urged",
+        "what": "financial firms",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "The Australian Department of Foreign Affairs released a statement claiming 'Terrorists have demonstrated intent to conduct attacks in Kuwait against a range of targets, including United States military and identifiably Western targets such as hotels, restaurants and symbols and buildings associated with the Kuwaiti government.'",
+        "category": "DISASTER",
+        "who": "Terrorists",
+        "trigger": "conduct attacks",
+        "what": "Kuwait",
+        "where": "Kuwait",
+        "when": ""
+    },
+    {
+        "sentence": "Mr Costello particularly singled out Muslims in his remarks, saying extremists should move to countries where they feel more comfortable.",
+        "category": "POLITICS",
+        "who": "Mr Costello",
+        "trigger": "singled out",
+        "what": "Muslims",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "The shooter today used an automatic rifle according to one account; took hostages, and was eventually killed in a gun battle with SWAT units.",
+        "category": "DISASTER",
+        "who": "shooter",
+        "trigger": "killed",
+        "what": "hostages",
+        "where": "gun battle",
+        "when": "today"
+    },
+    {
+        "sentence": "Activists in Brisbane yesterday burned an Australian flag to protest against celebrations marking European settlement in Australia.",
+        "category": "DISASTER",
+        "who": "Activists",
+        "trigger": "burned",
+        "what": "Australian flag",
+        "where": "Brisbane",
+        "when": "yesterday"
+    },
+    {
+        "sentence": "Washington Mutual, and Countrywide Financial, both very large U.S. home loan lenders, saw shares fall.",
+        "category": "BUSINESS",
+        "who": "Washington Mutual, and Countrywide Financial",
+        "trigger": "fall",
+        "what": "shares",
+        "where": "U.S.",
+        "when": ""
+    },
+    {
+        "sentence": "Increased volume of FTSE futures on LIFFE has meant that many people have been able to profit from the fall.",
+        "category": "BUSINESS",
+        "who": "many people",
+        "trigger": "profit",
+        "what": "fall",
+        "where": "LIFFE",
+        "when": ""
+    },
+    {
+        "sentence": "Contradicting claims made by some media outlets, SBS Dateline's executive producer Mike Carey claimed on Thursday that the program's researchers have found cases of Abu Ghraib prisoner abuse that have not been dealt with by US authorities.",
+        "category": "POLITICS",
+        "who": "program's researchers",
+        "trigger": "found",
+        "what": "cases of Abu Ghraib prisoner abuse",
+        "where": "",
+        "when": "Thursday"
+    },
+    {
+        "sentence": "Nearly two years ago, the Forever Elmwood Corp. assisted in the blocking of the demolition of the Edward Atwater house at 1089 Elmwood next to Pano's Restaurant which is at 1081 Elmwood.",
+        "category": "BUSINESS",
+        "who": "Forever Elmwood Corp.",
+        "trigger": "assisted in the blocking",
+        "what": "demolition of the Edward Atwater house",
+        "where": "1089 Elmwood",
+        "when": "Nearly two years ago"
+    },
+    {
+        "sentence": "OPEC has agreed that by November 1, 2007, they will increase the amount of barrels of oil they produce by 500,000 barrels a day.",
+        "category": "BUSINESS",
+        "who": "OPEC",
+        "trigger": "increase",
+        "what": "amount of barrels of oil",
+        "where": "",
+        "when": "by November 1, 2007"
+    },
+    {
+        "sentence": "In recent months corporate investors are paying more attention to virtual worlds.",
+        "category": "BUSINESS",
+        "who": "corporate investors",
+        "trigger": "paying attention",
+        "what": "virtual worlds",
+        "where": "",
+        "when": "In recent months"
+    },
+    {
+        "sentence": "The victims had been attempting to enter the stadium when the disaster occurred.",
+        "category": "DISASTER",
+        "who": "victims",
+        "trigger": "occurred",
+        "what": "disaster",
+        "where": "stadium",
+        "when": ""
+    },
+    {
+        "sentence": "Saudi Foreign Minister al-Faisal accused Hezbollah of  “inappropriate and irresponsible” behaviour and was supported in his view by delegates from Egypt, Jordan, Kuwait, Iraq, Palestine, the United Arab Emirates and Bahrain.",
+        "category": "POLITICS",
+        "who": "al-Faisal",
+        "trigger": "accused",
+        "what": "Hezbollah",
+        "where": "",
+        "when": ""
+    },
+    {
+        "sentence": "The 2003 memo seemingly contradicts sworn testimony by Sanchez given during the Senate Hearing on Iraq Prison Abuse.",
+        "category": "POLITICS",
+        "who": "2003 memo",
+        "trigger": "contradicts",
+        "what": "sworn testimony",
+        "where": "Senate Hearing",
+        "when": ""
+    },
+    {
+        "sentence": "This form of protest has drawn the attention of Thailand's military junta, the National Council for Peace and Order, who announced its intent on Tuesday to arrest protestors who display the gesture, in violation of orders to stop.",
+        "category": "POLITICS",
+        "who": "National Council for Peace and Order",
+        "trigger": "announced",
+        "what": "intent to arrest protestors",
+        "where": "Thailand",
+        "when": "on Tuesday"
+    }
+]

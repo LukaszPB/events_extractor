@@ -1,0 +1,17 @@
+{
+    "total_sentences": 300,
+    "accuracy_per_field": {
+        "who": "28.33%",
+        "trigger": "50.33%",
+        "what": "19.00%",
+        "where": "54.00%",
+        "when": "63.33%"
+    },
+    "correct_counts": {
+        "who": 85,
+        "trigger": 151,
+        "what": 57,
+        "where": 162,
+        "when": 190
+    }
+}
